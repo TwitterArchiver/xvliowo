@@ -1,0 +1,164 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1941079522490953728",
+    "conversation_id": "2026245934489964691",
+    "created_at": "2026-02-24T10:44:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T11:44:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026246851499082178"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2026246851499082178",
+    "in_reply_to_user_id": "1941079522490953728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026245934489964691",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不管怎么沟通 都说我未来怎么办 应该先吃苦 我真的想骂 等苦吃完了（实际上是不可能吃完的） 人都老了 还怎么享受"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1941079522490953728",
+        "conversation_id": "2026245934489964691",
+        "created_at": "2026-02-24T10:44:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T11:44:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026246851499082178"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2026246851499082178",
+        "in_reply_to_user_id": "1941079522490953728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026245934489964691",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不管怎么沟通 都说我未来怎么办 应该先吃苦 我真的想骂 等苦吃完了（实际上是不可能吃完的） 人都老了 还怎么享受"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1941079522490953728",
+        "conversation_id": "2026245934489964691",
+        "created_at": "2026-02-24T10:40:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T11:40:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026245934489964691"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2026245934489964691",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "中国的父母 给我一种好像他们生我下来我就是要还债的感觉 与其说养育了我 怎么不说我愿不愿意被生下来 出发的点就是我未来能给多少回报 真让我焦虑死了 人傻了疯了才会满意吗 从未被当作独立的个体对待 恨不得我的一切 全部都由他们掌握 让我成为他们想要的样子 我解决了性别焦虑 又给我制造新的焦虑.."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-04T10:20:10.000Z",
+        "description": "一个被世界抛弃的笨蛋（可爱喵）\nISFP-T 16龄 另一个我@maoliqwq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 31,
+                "username": "maoliqwq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/xi_yi2233",
+                "end": 23,
+                "expanded_url": "https://t.me/xi_yi2233",
+                "start": 0,
+                "url": "https://t.co/WagdVQM6xw"
+              }
+            ]
+          }
+        },
+        "id": "1941079522490953728",
+        "location": "有你的地方",
+        "name": "璃羽",
+        "pinned_tweet_id": "2023692062370238620",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023242882224988160/zrmtx_KH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 613,
+          "following_count": 606,
+          "like_count": 1007,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 635
+        },
+        "url": "https://t.co/WagdVQM6xw",
+        "username": "xvliowo",
+        "verified": false
+      }
+    ]
+  }
+}

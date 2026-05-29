@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1941079522490953728",
+    "conversation_id": "2004535107965923646",
+    "created_at": "2025-12-26T15:56:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-26T16:56:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004582065220800852"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1443389276654223363",
+          "start": 0,
+          "username": "C6QYBVSScQNBeI2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004582065220800852",
+    "in_reply_to_user_id": "1443389276654223363",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004572592292930030",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@C6QYBVSScQNBeI2 好喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1941079522490953728",
+        "conversation_id": "2004535107965923646",
+        "created_at": "2025-12-26T15:56:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T16:56:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004582065220800852"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1443389276654223363",
+              "start": 0,
+              "username": "C6QYBVSScQNBeI2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004582065220800852",
+        "in_reply_to_user_id": "1443389276654223363",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004572592292930030",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@C6QYBVSScQNBeI2 好喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1443389276654223363",
+        "conversation_id": "2004535107965923646",
+        "created_at": "2025-12-26T15:18:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T16:18:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004572592292930030"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1941079522490953728",
+              "start": 0,
+              "username": "xvliowo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004572592292930030",
+        "in_reply_to_user_id": "1941079522490953728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004535107965923646",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xvliowo 我rua喵！！！！！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-04T10:20:10.000Z",
+        "description": "一个被世界抛弃的笨蛋",
+        "id": "1941079522490953728",
+        "location": "有你的地方",
+        "name": "雨🍥",
+        "pinned_tweet_id": "1986387834031550519",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998523832777453568/zco7jaK6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 384,
+          "like_count": 441,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 238
+        },
+        "username": "xvliowo",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-30T01:36:48.000Z",
+        "description": "生产日期2005.11.7。山东潍坊，苦逼大一学生党，穷苦💊💊一只，社恐二次元一枚喵，欢迎姐妹贴贴喵！喜欢大肉棒和小钱钱喵，正在努力学习cos中喵，没建模没经济的哥布林一枚喵，呜呜呜",
+        "id": "1443389276654223363",
+        "name": "折翼的笼中鸟 🏳‍⚧🍥～",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870164687511490560/gnjHxcgJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 285,
+          "following_count": 572,
+          "like_count": 9,
+          "listed_count": 1,
+          "media_count": 95,
+          "tweet_count": 572
+        },
+        "username": "C6QYBVSScQNBeI2",
+        "verified": false
+      }
+    ]
+  }
+}

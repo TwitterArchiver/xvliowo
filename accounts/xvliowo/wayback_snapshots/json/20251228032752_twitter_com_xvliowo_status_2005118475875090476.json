@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1941079522490953728",
+    "conversation_id": "2004908045768557014",
+    "created_at": "2025-12-28T03:27:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-28T04:27:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005118475875090476"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1750147061406920704",
+          "start": 0,
+          "username": "_Eric28_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005118475875090476",
+    "in_reply_to_user_id": "1750147061406920704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005118387115233413",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_Eric28_ 主页右上角喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1941079522490953728",
+        "conversation_id": "2004908045768557014",
+        "created_at": "2025-12-28T03:27:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T04:27:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005118475875090476"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1750147061406920704",
+              "start": 0,
+              "username": "_Eric28_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005118475875090476",
+        "in_reply_to_user_id": "1750147061406920704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005118387115233413",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_Eric28_ 主页右上角喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1750147061406920704",
+        "conversation_id": "2004908045768557014",
+        "created_at": "2025-12-28T03:27:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T04:27:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005118387115233413"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1941079522490953728",
+              "start": 0,
+              "username": "xvliowo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005118387115233413",
+        "in_reply_to_user_id": "1941079522490953728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004908045768557014",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xvliowo 怎么搞的这种（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-04T10:20:10.000Z",
+        "description": "一个被世界抛弃的笨蛋",
+        "id": "1941079522490953728",
+        "location": "有你的地方",
+        "name": "雨🍥",
+        "pinned_tweet_id": "1986387834031550519",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998523832777453568/zco7jaK6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200,
+          "following_count": 414,
+          "like_count": 468,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 267
+        },
+        "username": "xvliowo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-24T13:23:04.000Z",
+        "description": "xnn bassist @linbingyi288 是我宝宝",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 12,
+                "username": "linbingyi288"
+              }
+            ]
+          }
+        },
+        "id": "1750147061406920704",
+        "name": "Eric_28",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988482745971113984/KGb9FXSo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 43,
+          "like_count": 196,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 42
+        },
+        "username": "_Eric28_",
+        "verified": false
+      }
+    ]
+  }
+}

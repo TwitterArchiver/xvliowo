@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1941079522490953728",
+    "conversation_id": "2026252299618968002",
+    "created_at": "2026-02-24T11:06:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T12:06:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026252299618968002"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xvliowo/status…",
+          "end": 65,
+          "expanded_url": "https://twitter.com/xvliowo/status/2026250871563301189",
+          "start": 42,
+          "url": "https://t.co/rgEtPzcUFW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026252299618968002",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026250871563301189",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "他们明知道我现在的身体状态无法干底层体力活 我手上还有伤 却还要用经济独立来羞辱我 https://t.co/rgEtPzcUFW"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1941079522490953728",
+        "conversation_id": "2026252299618968002",
+        "created_at": "2026-02-24T11:06:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T12:06:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026252299618968002"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xvliowo/status…",
+              "end": 65,
+              "expanded_url": "https://twitter.com/xvliowo/status/2026250871563301189",
+              "start": 42,
+              "url": "https://t.co/rgEtPzcUFW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026252299618968002",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026250871563301189",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "他们明知道我现在的身体状态无法干底层体力活 我手上还有伤 却还要用经济独立来羞辱我 https://t.co/rgEtPzcUFW"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1941079522490953728",
+        "conversation_id": "2026250871563301189",
+        "created_at": "2026-02-24T11:00:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T12:00:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026250871563301189"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xvliowo/status…",
+              "end": 95,
+              "expanded_url": "https://twitter.com/xvliowo/status/2026250152693141530",
+              "start": 72,
+              "url": "https://t.co/jC3P0DyCkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026250871563301189",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026250152693141530",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "说我要是真有本事就不要靠家里 我没有成年的情况下 初诊没有监护人陪同 没有人会为我开证 去营业厅办一个自己名字的手机号 都需要监护人 哎... https://t.co/jC3P0DyCkk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-04T10:20:10.000Z",
+        "description": "一个被世界抛弃的笨蛋（可爱喵）\nISFP-T 16龄 另一个我@maoliqwq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 31,
+                "username": "maoliqwq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/xi_yi2233",
+                "end": 23,
+                "expanded_url": "https://t.me/xi_yi2233",
+                "start": 0,
+                "url": "https://t.co/WagdVQM6xw"
+              }
+            ]
+          }
+        },
+        "id": "1941079522490953728",
+        "location": "有你的地方",
+        "name": "璃羽",
+        "pinned_tweet_id": "2023692062370238620",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023242882224988160/zrmtx_KH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 613,
+          "following_count": 606,
+          "like_count": 1008,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 639
+        },
+        "url": "https://t.co/WagdVQM6xw",
+        "username": "xvliowo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1941079522490953728",
+    "conversation_id": "2053129495985758582",
+    "created_at": "2026-05-09T15:06:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T16:06:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053129495985758582"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xvliowo/status…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/xvliowo/status/2053071038884511765",
+          "start": 14,
+          "url": "https://t.co/XrCudXzJ06"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053129495985758582",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053071038884511765",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不做点什么分散注意不舒服… https://t.co/XrCudXzJ06"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1941079522490953728",
+        "conversation_id": "2053129495985758582",
+        "created_at": "2026-05-09T15:06:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T16:06:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053129495985758582"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xvliowo/status…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/xvliowo/status/2053071038884511765",
+              "start": 14,
+              "url": "https://t.co/XrCudXzJ06"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053129495985758582",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053071038884511765",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不做点什么分散注意不舒服… https://t.co/XrCudXzJ06"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1941079522490953728",
+        "conversation_id": "2053071038884511765",
+        "created_at": "2026-05-09T11:14:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T12:14:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053071038884511765"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053071038884511765",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "似了 把我的头发还给我 呜呜呜呜呜呜呜呜呜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-04T10:20:10.000Z",
+        "description": "ISFP-T 16龄 trans\n自学c语言ing……",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/xi_yi2233",
+                "end": 23,
+                "expanded_url": "https://t.me/xi_yi2233",
+                "start": 0,
+                "url": "https://t.co/WagdVQM6xw"
+              }
+            ]
+          }
+        },
+        "id": "1941079522490953728",
+        "location": "有你的地方",
+        "name": "璃羽",
+        "pinned_tweet_id": "2032075745988919375",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023242882224988160/zrmtx_KH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 824,
+          "following_count": 630,
+          "like_count": 1471,
+          "listed_count": 1,
+          "media_count": 138,
+          "tweet_count": 1075
+        },
+        "url": "https://t.co/WagdVQM6xw",
+        "username": "xvliowo",
+        "verified": false
+      }
+    ]
+  }
+}

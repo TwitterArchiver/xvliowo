@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1941079522490953728",
+    "conversation_id": "2015045451503001879",
+    "created_at": "2026-02-06T16:56:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-06T17:56:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019817494056427710"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1505851491734720515",
+          "start": 0,
+          "username": "momo_yu_Apple"
+        },
+        {
+          "end": 26,
+          "id": "1686472989129441281",
+          "start": 15,
+          "username": "_Furryfur_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019817494056427710",
+    "in_reply_to_user_id": "1505851491734720515",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019797087374717222",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@momo_yu_Apple @_Furryfur_ 事实上 初中文凭最好找的工作就是去奶茶店 一天干10个小时 干到小腿疼 在奶茶店试了两天 碰见点一大堆奶茶的 在心里真的会问候 赶紧喝死算了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1941079522490953728",
+        "conversation_id": "2015045451503001879",
+        "created_at": "2026-02-06T16:56:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T17:56:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019817494056427710"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1505851491734720515",
+              "start": 0,
+              "username": "momo_yu_Apple"
+            },
+            {
+              "end": 26,
+              "id": "1686472989129441281",
+              "start": 15,
+              "username": "_Furryfur_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019817494056427710",
+        "in_reply_to_user_id": "1505851491734720515",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019797087374717222",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@momo_yu_Apple @_Furryfur_ 事实上 初中文凭最好找的工作就是去奶茶店 一天干10个小时 干到小腿疼 在奶茶店试了两天 碰见点一大堆奶茶的 在心里真的会问候 赶紧喝死算了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1505851491734720515",
+        "conversation_id": "2015045451503001879",
+        "created_at": "2026-02-06T15:35:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T16:35:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019797087374717222"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1686472989129441281",
+              "start": 0,
+              "username": "_Furryfur_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019797087374717222",
+        "in_reply_to_user_id": "1686472989129441281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 119,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019794528685666762",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_Furryfur_ 提早吃药至少能还给你一个正常的不被焦虑摧毁的内心，至于好不好看只是可选加分项，这就够了。\n你说初中文凭找不到，我看推上是有很多coder实现了，她们过上了幸福的生活，并不至于你说的那么惨。\n我希望我死后能够走自己建议的路线，过上属于自己的人生，而抛弃我目前已经失败的存档"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-04T10:20:10.000Z",
+        "description": "一个被世界抛弃的笨蛋（可爱喵）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/xi_yi2233",
+                "end": 23,
+                "expanded_url": "https://t.me/xi_yi2233",
+                "start": 0,
+                "url": "https://t.co/WagdVQLyHY"
+              }
+            ]
+          }
+        },
+        "id": "1941079522490953728",
+        "location": "有你的地方",
+        "name": "雨🍥",
+        "pinned_tweet_id": "1986387834031550519",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998523832777453568/zco7jaK6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 450,
+          "following_count": 559,
+          "like_count": 805,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 437
+        },
+        "url": "https://t.co/WagdVQLyHY",
+        "username": "xvliowo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-21T10:19:23.000Z",
+        "description": "04年大龄||178/70(减肥中)/80a||🚪60接线下实习圆角||部分言论不要太较真||学习化妆ing｜离开地球准备中",
+        "id": "1505851491734720515",
+        "name": "玉茉茉喵🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982279720688320512/fMn-1YUs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2684,
+          "following_count": 291,
+          "like_count": 537,
+          "listed_count": 8,
+          "media_count": 132,
+          "tweet_count": 1158
+        },
+        "username": "momo_yu_Apple",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-01T20:25:04.000Z",
+        "description": "Just a regular VRChat player | 是猫猫 | 涩涩! | \nPrefer language: English / 中文 | 现居🇸🇬 \n大猫猫: @sprLumi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 87,
+                "username": "sprLumi"
+              }
+            ]
+          }
+        },
+        "id": "1686472989129441281",
+        "location": "Singapura",
+        "name": "𝑭𝒖𝒓𝒓𝒚𝒇𝒖𝒓",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004338322987274240/3qQnRXtO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 789,
+          "following_count": 486,
+          "like_count": 110370,
+          "listed_count": 3,
+          "media_count": 328,
+          "tweet_count": 3175
+        },
+        "username": "_Furryfur_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1941079522490953728",
+    "conversation_id": "2014756073526460902",
+    "created_at": "2026-01-24T10:55:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-24T11:55:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015015704479822021"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1302984963805999104",
+          "start": 0,
+          "username": "littlelambqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015015704479822021",
+    "in_reply_to_user_id": "1302984963805999104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015015593397899404",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@littlelambqwq 不喝了 昨天喝的肚子疼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1941079522490953728",
+        "conversation_id": "2014756073526460902",
+        "created_at": "2026-01-24T10:55:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T11:55:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015015704479822021"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1302984963805999104",
+              "start": 0,
+              "username": "littlelambqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015015704479822021",
+        "in_reply_to_user_id": "1302984963805999104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015015593397899404",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@littlelambqwq 不喝了 昨天喝的肚子疼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1302984963805999104",
+        "conversation_id": "2014756073526460902",
+        "created_at": "2026-01-24T10:55:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T11:55:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015015593397899404"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1941079522490953728",
+              "start": 0,
+              "username": "xvliowo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015015593397899404",
+        "in_reply_to_user_id": "1941079522490953728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014756073526460902",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xvliowo 以后白天喝魔爪吼w，不过魔爪是真的好喝，之前还尝试过魔爪泡饭咩。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-04T10:20:10.000Z",
+        "description": "一个被世界抛弃的笨蛋（可爱喵）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/xi_yi2233",
+                "end": 23,
+                "expanded_url": "https://t.me/xi_yi2233",
+                "start": 0,
+                "url": "https://t.co/WagdVQLyHY"
+              }
+            ]
+          }
+        },
+        "id": "1941079522490953728",
+        "location": "有你的地方",
+        "name": "雨🍥",
+        "pinned_tweet_id": "1986387834031550519",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998523832777453568/zco7jaK6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 416,
+          "following_count": 523,
+          "like_count": 721,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 392
+        },
+        "url": "https://t.co/WagdVQLyHY",
+        "username": "xvliowo",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-07T15:00:08.000Z",
+        "description": "最憨的小女孩(mtx🏳️‍⚧️)/咩咩教教主/大龄跨女/控制欲强的变态/幼稚小鬼/性格暴躁/暴力dom/bluesky的id和Twitter一样/欢迎找我私信咩/简介和置顶有个人tg频道链接/",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+2dG0HZQuXcA2N…",
+                "end": 23,
+                "expanded_url": "https://t.me/+2dG0HZQuXcA2NjQ1",
+                "start": 0,
+                "url": "https://t.co/si7tu8rD2I"
+              }
+            ]
+          }
+        },
+        "id": "1302984963805999104",
+        "location": "咩咩星-山羊州-傻子社区-250号（已搬进这个家）",
+        "name": "小咩咩🐑🍥8964",
+        "pinned_tweet_id": "2012363069645582583",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008560122407383046/maSzC5df_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2249,
+          "following_count": 1062,
+          "like_count": 70847,
+          "listed_count": 16,
+          "media_count": 1388,
+          "tweet_count": 13659
+        },
+        "url": "https://t.co/si7tu8rD2I",
+        "username": "littlelambqwq",
+        "verified": true
+      }
+    ]
+  }
+}

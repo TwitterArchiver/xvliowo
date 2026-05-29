@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1941079522490953728",
+    "conversation_id": "2056707951285703072",
+    "created_at": "2026-05-19T12:06:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T13:06:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056707951285703072"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xvliowo/status…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/xvliowo/status/2056707544341741837",
+          "start": 21,
+          "url": "https://t.co/eE9mOSeI6N"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056707951285703072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056707544341741837",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不可以这样 这样会出事的 不要再重复一次 https://t.co/eE9mOSeI6N"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1941079522490953728",
+        "conversation_id": "2056707951285703072",
+        "created_at": "2026-05-19T12:06:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T13:06:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056707951285703072"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xvliowo/status…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/xvliowo/status/2056707544341741837",
+              "start": 21,
+              "url": "https://t.co/eE9mOSeI6N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056707951285703072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056707544341741837",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不可以这样 这样会出事的 不要再重复一次 https://t.co/eE9mOSeI6N"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1941079522490953728",
+        "conversation_id": "2056707544341741837",
+        "created_at": "2026-05-19T12:04:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T13:04:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056707544341741837"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xvliowo/status…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/xvliowo/status/2056643669797839277",
+              "start": 32,
+              "url": "https://t.co/dqem2ucj1d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056707544341741837",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056643669797839277",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好痛苦 心里木木的 我好像根本不会处理自己的情绪 只会压着心里 https://t.co/dqem2ucj1d"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-04T10:20:10.000Z",
+        "description": "ISFP-T 16龄 trans\n自学c语言ing……\n是超乖的小孩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/xi_yi2233",
+                "end": 23,
+                "expanded_url": "https://t.me/xi_yi2233",
+                "start": 0,
+                "url": "https://t.co/WagdVQM6xw"
+              }
+            ]
+          }
+        },
+        "id": "1941079522490953728",
+        "location": "有你的地方",
+        "name": "璃羽",
+        "pinned_tweet_id": "2032075745988919375",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056320204519723008/GNmqp3b1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 817,
+          "following_count": 630,
+          "like_count": 1468,
+          "listed_count": 1,
+          "media_count": 148,
+          "tweet_count": 1128
+        },
+        "url": "https://t.co/WagdVQM6xw",
+        "username": "xvliowo",
+        "verified": false
+      }
+    ]
+  }
+}

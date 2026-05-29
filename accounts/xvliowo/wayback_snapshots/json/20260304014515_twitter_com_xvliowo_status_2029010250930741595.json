@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1941079522490953728",
+    "conversation_id": "2028965944798724269",
+    "created_at": "2026-03-04T01:45:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T02:45:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029010250930741595"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "4752010152",
+          "start": 0,
+          "username": "garrulous_abyss"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029010250930741595",
+    "in_reply_to_user_id": "4752010152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028965944798724269",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@garrulous_abyss 在他们眼里自己像个工具 而不是一个有自我意识的人（被说我们就是要把你的思想扭成我们大众化的想法这样子的话）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2028965938914078720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HChVxYJXMAAZZmE.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2028965938905731073",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HChVxYHX0AEmgtn.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2028965938918223872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HChVxYKWcAA6KYv.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2028965939136602112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HChVxY-aoAAQFBH.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1941079522490953728",
+        "conversation_id": "2028965944798724269",
+        "created_at": "2026-03-04T01:45:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T02:45:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029010250930741595"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "4752010152",
+              "start": 0,
+              "username": "garrulous_abyss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029010250930741595",
+        "in_reply_to_user_id": "4752010152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028965944798724269",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@garrulous_abyss 在他们眼里自己像个工具 而不是一个有自我意识的人（被说我们就是要把你的思想扭成我们大众化的想法这样子的话）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028965938914078720",
+            "3_2028965938905731073",
+            "3_2028965938918223872",
+            "3_2028965939136602112"
+          ]
+        },
+        "author_id": "4752010152",
+        "conversation_id": "2028965944798724269",
+        "created_at": "2026-03-03T22:49:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T23:49:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028965944798724269"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PNqEUkYUAi",
+              "end": 168,
+              "expanded_url": "https://x.com/garrulous_abyss/status/2028965944798724269/photo/1",
+              "media_key": "3_2028965938914078720",
+              "start": 145,
+              "url": "https://t.co/PNqEUkYUAi"
+            },
+            {
+              "display_url": "pic.x.com/PNqEUkYUAi",
+              "end": 168,
+              "expanded_url": "https://x.com/garrulous_abyss/status/2028965944798724269/photo/1",
+              "media_key": "3_2028965938905731073",
+              "start": 145,
+              "url": "https://t.co/PNqEUkYUAi"
+            },
+            {
+              "display_url": "pic.x.com/PNqEUkYUAi",
+              "end": 168,
+              "expanded_url": "https://x.com/garrulous_abyss/status/2028965944798724269/photo/1",
+              "media_key": "3_2028965938918223872",
+              "start": 145,
+              "url": "https://t.co/PNqEUkYUAi"
+            },
+            {
+              "display_url": "pic.x.com/PNqEUkYUAi",
+              "end": 168,
+              "expanded_url": "https://x.com/garrulous_abyss/status/2028965944798724269/photo/1",
+              "media_key": "3_2028965939136602112",
+              "start": 145,
+              "url": "https://t.co/PNqEUkYUAi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028965944798724269",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 735,
+          "like_count": 41,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "在我曾十多岁的时候，我还一次次地，试图过跟父母沟通，交流。哪怕能有些许的“求同存异”也行。\n\n而现在作为三十多岁的人，只会觉得，如果你父母真心爱你，把你当平等独立的人，那沟通有用。\n\n但如果他们觉得，你只是他们自我的延伸，你只是他们的工具和手段。那就别tm废话了。奴隶没资格和奴隶主谈自由 https://t.co/PNqEUkYUAi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-04T10:20:10.000Z",
+        "description": "一个被世界抛弃的笨蛋（可爱喵）\nISFP-T 16龄 trans 另一个我@maoliqwq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 37,
+                "username": "maoliqwq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/xi_yi2233",
+                "end": 23,
+                "expanded_url": "https://t.me/xi_yi2233",
+                "start": 0,
+                "url": "https://t.co/WagdVQM6xw"
+              }
+            ]
+          }
+        },
+        "id": "1941079522490953728",
+        "location": "有你的地方",
+        "name": "璃羽🍥",
+        "pinned_tweet_id": "2023692062370238620",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023242882224988160/zrmtx_KH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 668,
+          "following_count": 625,
+          "like_count": 1149,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 706
+        },
+        "url": "https://t.co/WagdVQM6xw",
+        "username": "xvliowo",
+        "verified": false
+      },
+      {
+        "created_at": "2016-01-13T07:43:45.000Z",
+        "description": "LGBTQIA一生推//女朋友是@Yaoyao38324// 程序员//科研人员//PhD//奔四老登//真·法语学习博主//ADHD确诊//见到Incel、terf、小粉红、魔怔人立刻拉黑//\n\n欢迎预约占卜测事 https://t.co/KZBQuE9x4R",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "Yaoyao38324"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/garrulous_abyss",
+                "end": 131,
+                "expanded_url": "https://buymeacoffee.com/garrulous_abyss",
+                "start": 108,
+                "url": "https://t.co/KZBQuE9x4R"
+              }
+            ]
+          }
+        },
+        "id": "4752010152",
+        "location": "Paris, France",
+        "name": "garrulous abyss🌈",
+        "pinned_tweet_id": "1573706756357750786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1765120357042622464/Mkgehayb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31385,
+          "following_count": 3655,
+          "like_count": 177299,
+          "listed_count": 106,
+          "media_count": 3814,
+          "tweet_count": 65414
+        },
+        "username": "garrulous_abyss",
+        "verified": false
+      }
+    ]
+  }
+}

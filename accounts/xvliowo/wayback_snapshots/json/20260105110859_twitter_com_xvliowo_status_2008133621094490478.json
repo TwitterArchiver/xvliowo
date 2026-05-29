@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1941079522490953728",
+    "conversation_id": "2008084335912706339",
+    "created_at": "2026-01-05T11:08:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-05T12:08:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008133621094490478"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1885154179922227200",
+          "start": 0,
+          "username": "Snow_Xue_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008133621094490478",
+    "in_reply_to_user_id": "1885154179922227200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008084335912706339",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Snow_Xue_ 从来不说脏话 和同学讲话聊天在克制自己 不要加喵ww"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1941079522490953728",
+        "conversation_id": "2008084335912706339",
+        "created_at": "2026-01-05T11:08:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T12:08:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008133621094490478"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1885154179922227200",
+              "start": 0,
+              "username": "Snow_Xue_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008133621094490478",
+        "in_reply_to_user_id": "1885154179922227200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008084335912706339",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Snow_Xue_ 从来不说脏话 和同学讲话聊天在克制自己 不要加喵ww"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1885154179922227200",
+        "conversation_id": "2008084335912706339",
+        "created_at": "2026-01-05T07:53:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T08:53:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008084335912706339"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2008084335912706339",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 597,
+          "like_count": 13,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "以前咱语音或者和同学聊天，还能非常自然的甚至可以说是习惯性的说脏话啥的比如什么“你个**我***”\n现在这些习惯全都没了，和他们说话还得刻意去加，而且现在也不知道是不是这个原因，咱有的时候习惯结尾加个嘛，就比如“怎么了嘛”这种\n以前从来没这些习惯的都怪你们！推特真坏！xyn真坏！带坏咱！😡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-04T10:20:10.000Z",
+        "description": "一个被世界抛弃的笨蛋（可爱针娘喵）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/xi_yi2233",
+                "end": 23,
+                "expanded_url": "https://t.me/xi_yi2233",
+                "start": 0,
+                "url": "https://t.co/WagdVQLyHY"
+              }
+            ]
+          }
+        },
+        "id": "1941079522490953728",
+        "location": "有你的地方",
+        "name": "雨🍥",
+        "pinned_tweet_id": "1986387834031550519",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998523832777453568/zco7jaK6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 471,
+          "like_count": 564,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 328
+        },
+        "url": "https://t.co/WagdVQLyHY",
+        "username": "xvliowo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-31T02:32:51.000Z",
+        "description": "| 普通的上海入 | 生产日期2010.3.16 | 无证含糖 | \nb站：屑冷雪 / 屑冷雪_\n提问箱 https://t.co/UJzajXzyMR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/snow_xue_",
+                "end": 76,
+                "expanded_url": "https://ngl.link/snow_xue_",
+                "start": 53,
+                "url": "https://t.co/UJzajXzyMR"
+              }
+            ]
+          }
+        },
+        "id": "1885154179922227200",
+        "location": "上海 ",
+        "name": "雪🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993960630769094656/zuD-tgtP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1211,
+          "following_count": 1402,
+          "like_count": 37918,
+          "listed_count": 2,
+          "media_count": 490,
+          "tweet_count": 3624
+        },
+        "username": "Snow_Xue_",
+        "verified": false
+      }
+    ]
+  }
+}

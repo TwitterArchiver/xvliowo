@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057458192444219392",
+        "3_2057458192507138048"
+      ]
+    },
+    "author_id": "1941079522490953728",
+    "conversation_id": "2057458195594141725",
+    "created_at": "2026-05-21T13:47:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T14:47:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057458195594141725"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/FRrY86SUM1",
+          "end": 133,
+          "expanded_url": "https://x.com/xvliowo/status/2057458195594141725/photo/1",
+          "media_key": "3_2057458192444219392",
+          "start": 110,
+          "url": "https://t.co/FRrY86SUM1"
+        },
+        {
+          "display_url": "pic.x.com/FRrY86SUM1",
+          "end": 133,
+          "expanded_url": "https://x.com/xvliowo/status/2057458195594141725/photo/1",
+          "media_key": "3_2057458192507138048",
+          "start": 110,
+          "url": "https://t.co/FRrY86SUM1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057458195594141725",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "对不起\n虽然我主观上愿意好好活着\n愿意学习新的东西\n但是在不正常的环境里 \n真的好累\n被逼着剪了头发\n好了\n现在我听你的了 饶了我吧 \n让我去死 放过我吧\n我无法按你想的 成为男孩\n没有意义的\n早就该结束了 在3年之前 https://t.co/FRrY86SUM1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2057458192444219392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI2PUzza4AA05zr.jpg",
+        "width": 1610
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2057458192507138048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI2PU0Ca8AAssUD.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057458192444219392",
+            "3_2057458192507138048"
+          ]
+        },
+        "author_id": "1941079522490953728",
+        "conversation_id": "2057458195594141725",
+        "created_at": "2026-05-21T13:47:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T14:47:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057458195594141725"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FRrY86SUM1",
+              "end": 133,
+              "expanded_url": "https://x.com/xvliowo/status/2057458195594141725/photo/1",
+              "media_key": "3_2057458192444219392",
+              "start": 110,
+              "url": "https://t.co/FRrY86SUM1"
+            },
+            {
+              "display_url": "pic.x.com/FRrY86SUM1",
+              "end": 133,
+              "expanded_url": "https://x.com/xvliowo/status/2057458195594141725/photo/1",
+              "media_key": "3_2057458192507138048",
+              "start": 110,
+              "url": "https://t.co/FRrY86SUM1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057458195594141725",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "对不起\n虽然我主观上愿意好好活着\n愿意学习新的东西\n但是在不正常的环境里 \n真的好累\n被逼着剪了头发\n好了\n现在我听你的了 饶了我吧 \n让我去死 放过我吧\n我无法按你想的 成为男孩\n没有意义的\n早就该结束了 在3年之前 https://t.co/FRrY86SUM1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-04T10:20:10.000Z",
+        "description": "ISFP-T 16龄 trans\n自学c语言ing……\n是超乖的小孩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/xi_yi2233",
+                "end": 23,
+                "expanded_url": "https://t.me/xi_yi2233",
+                "start": 0,
+                "url": "https://t.co/WagdVQM6xw"
+              }
+            ]
+          }
+        },
+        "id": "1941079522490953728",
+        "location": "有你的地方",
+        "name": "璃羽",
+        "pinned_tweet_id": "2032075745988919375",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056320204519723008/GNmqp3b1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 818,
+          "following_count": 630,
+          "like_count": 1460,
+          "listed_count": 1,
+          "media_count": 149,
+          "tweet_count": 1133
+        },
+        "url": "https://t.co/WagdVQM6xw",
+        "username": "xvliowo",
+        "verified": false
+      }
+    ]
+  }
+}

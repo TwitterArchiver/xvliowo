@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1941079522490953728",
+    "conversation_id": "2031381712148770924",
+    "created_at": "2026-03-10T14:48:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T15:48:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2031381712148770924"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xvliowo/status…",
+          "end": 73,
+          "expanded_url": "https://twitter.com/xvliowo/status/2031381308795138418",
+          "start": 50,
+          "url": "https://t.co/4TrPG5O6aM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031381712148770924",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031381308795138418",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "老板这种要求我真没招了 有的厉害就给才2000底薪 3000的 \n反正屁事一大堆 累的要死 还没钱 https://t.co/4TrPG5O6aM"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1941079522490953728",
+        "conversation_id": "2031381712148770924",
+        "created_at": "2026-03-10T14:48:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T15:48:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031381712148770924"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xvliowo/status…",
+              "end": 73,
+              "expanded_url": "https://twitter.com/xvliowo/status/2031381308795138418",
+              "start": 50,
+              "url": "https://t.co/4TrPG5O6aM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031381712148770924",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031381308795138418",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "老板这种要求我真没招了 有的厉害就给才2000底薪 3000的 \n反正屁事一大堆 累的要死 还没钱 https://t.co/4TrPG5O6aM"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1941079522490953728",
+        "conversation_id": "2031373921162006796",
+        "created_at": "2026-03-10T14:46:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T15:46:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031381308795138418"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1932674641484787712",
+              "start": 0,
+              "username": "shxnyo498862"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031381308795138418",
+        "in_reply_to_user_id": "1932674641484787712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031379868844507176",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shxnyo498862 不是的 这个压榨说的是 我要一个人开起整个店 所有操作我必须一个人全部都要会 还有压半个月工资在老板那 要挟员工必须等到老板找到人 不然不给了 但是实际上老板也不会找人 他只会等你自己放了半个月工资走 ... 还有工作 12小时两天倒一次班 底薪就3000 然后还有10天试用期试用期就30块你自己走还不给"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-04T10:20:10.000Z",
+        "description": "一个被世界抛弃的笨蛋（可爱喵）\nISFP-T 16龄 trans 另一个我@maoliqwq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 37,
+                "username": "maoliqwq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/xi_yi2233",
+                "end": 23,
+                "expanded_url": "https://t.me/xi_yi2233",
+                "start": 0,
+                "url": "https://t.co/WagdVQM6xw"
+              }
+            ]
+          }
+        },
+        "id": "1941079522490953728",
+        "location": "有你的地方",
+        "name": "璃羽🍥",
+        "pinned_tweet_id": "2023692062370238620",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023242882224988160/zrmtx_KH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 810,
+          "following_count": 643,
+          "like_count": 1244,
+          "listed_count": 1,
+          "media_count": 92,
+          "tweet_count": 828
+        },
+        "url": "https://t.co/WagdVQM6xw",
+        "username": "xvliowo",
+        "verified": false
+      }
+    ]
+  }
+}

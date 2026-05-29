@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1941079522490953728",
+    "conversation_id": "2004501246531793123",
+    "created_at": "2025-12-26T18:27:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-26T19:27:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004620015224644004"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1377114572843184139",
+          "start": 0,
+          "username": "SONY846995"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004620015224644004",
+    "in_reply_to_user_id": "1377114572843184139",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004501246531793123",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SONY846995 想被抱着睡觉可以嘛"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 569,
+        "media_key": "3_2004501244266913792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9FrQuhboAA-ICf.jpg",
+        "width": 923
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1941079522490953728",
+        "conversation_id": "2004501246531793123",
+        "created_at": "2025-12-26T18:27:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T19:27:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004620015224644004"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1377114572843184139",
+              "start": 0,
+              "username": "SONY846995"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004620015224644004",
+        "in_reply_to_user_id": "1377114572843184139",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004501246531793123",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SONY846995 想被抱着睡觉可以嘛"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004501244266913792"
+          ]
+        },
+        "author_id": "1377114572843184139",
+        "conversation_id": "2004501246531793123",
+        "created_at": "2025-12-26T10:35:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T11:35:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004501246531793123"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DN54hgPTfe",
+              "end": 23,
+              "expanded_url": "https://x.com/SONY846995/status/2004501246531793123/photo/1",
+              "media_key": "3_2004501244266913792",
+              "start": 0,
+              "url": "https://t.co/DN54hgPTfe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004501246531793123",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 363,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/DN54hgPTfe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-04T10:20:10.000Z",
+        "description": "一个被世界抛弃的笨蛋",
+        "id": "1941079522490953728",
+        "location": "有你的地方",
+        "name": "雨🍥",
+        "pinned_tweet_id": "1986387834031550519",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998523832777453568/zco7jaK6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 388,
+          "like_count": 445,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 244
+        },
+        "username": "xvliowo",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-31T04:24:45.000Z",
+        "description": "日更帳 / 分享日常 / 歡迎跟隨❤️ / 想多找點朋朋 /   🔫台中🔪 /  歡迎找我打 #戰艦世界\n    \n我家的銀漸層😺 @sushiching_2006 💕\n\n#廢文 #日常帳",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 52,
+                "start": 47,
+                "tag": "戰艦世界"
+              },
+              {
+                "end": 89,
+                "start": 86,
+                "tag": "廢文"
+              },
+              {
+                "end": 94,
+                "start": 90,
+                "tag": "日常帳"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 82,
+                "start": 66,
+                "username": "sushiching_2006"
+              }
+            ]
+          }
+        },
+        "id": "1377114572843184139",
+        "location": "台中市, 台灣",
+        "name": "SONY 🐾🍨",
+        "pinned_tweet_id": "1437803738752638980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999003066167865347/a0jEihmZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1449,
+          "following_count": 129,
+          "like_count": 812,
+          "listed_count": 0,
+          "media_count": 233,
+          "tweet_count": 958
+        },
+        "username": "SONY846995",
+        "verified": false
+      }
+    ]
+  }
+}

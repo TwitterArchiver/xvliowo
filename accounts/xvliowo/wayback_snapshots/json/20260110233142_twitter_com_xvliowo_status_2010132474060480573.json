@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1941079522490953728",
+    "conversation_id": "2009861559414394884",
+    "created_at": "2026-01-10T23:31:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-11T00:31:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010132474060480573"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1716319425593511936",
+          "start": 0,
+          "username": "xiaowang_0101"
+        },
+        {
+          "end": 30,
+          "id": "1921862257874702337",
+          "start": 15,
+          "username": "Theprophetsfox"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010132474060480573",
+    "in_reply_to_user_id": "1716319425593511936",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010053300264247655",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaowang_0101 @Theprophetsfox 反了吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1941079522490953728",
+        "conversation_id": "2009861559414394884",
+        "created_at": "2026-01-10T23:31:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T00:31:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010132474060480573"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1716319425593511936",
+              "start": 0,
+              "username": "xiaowang_0101"
+            },
+            {
+              "end": 30,
+              "id": "1921862257874702337",
+              "start": 15,
+              "username": "Theprophetsfox"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010132474060480573",
+        "in_reply_to_user_id": "1716319425593511936",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010053300264247655",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaowang_0101 @Theprophetsfox 反了吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1716319425593511936",
+        "conversation_id": "2009861559414394884",
+        "created_at": "2026-01-10T18:17:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T19:17:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010053300264247655"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1921862257874702337",
+              "start": 0,
+              "username": "Theprophetsfox"
+            },
+            {
+              "end": 24,
+              "id": "1941079522490953728",
+              "start": 16,
+              "username": "xvliowo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010053300264247655",
+        "in_reply_to_user_id": "1921862257874702337",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010024870609137973",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Theprophetsfox @xvliowo 男性一般是腹式呼吸，女性一般是胸式呼吸。一般男的呼吸肚子上下动，女的呼吸胸部上下动"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-04T10:20:10.000Z",
+        "description": "一个被世界抛弃的笨蛋（可爱针娘喵）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/xi_yi2233",
+                "end": 23,
+                "expanded_url": "https://t.me/xi_yi2233",
+                "start": 0,
+                "url": "https://t.co/WagdVQLyHY"
+              }
+            ]
+          }
+        },
+        "id": "1941079522490953728",
+        "location": "有你的地方",
+        "name": "雨🍥",
+        "pinned_tweet_id": "1986387834031550519",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998523832777453568/zco7jaK6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 311,
+          "following_count": 489,
+          "like_count": 618,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 354
+        },
+        "url": "https://t.co/WagdVQLyHY",
+        "username": "xvliowo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-23T05:03:45.000Z",
+        "description": "",
+        "id": "1716319425593511936",
+        "name": "鸡腿堡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931685936703885314/8Bp8rKfn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 110,
+          "like_count": 27,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 88
+        },
+        "username": "xiaowang_0101",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-12T09:37:33.000Z",
+        "description": "偶尔冒头的时候不要抓我，等哪天我整点涩的再发给你们看。",
+        "id": "1921862257874702337",
+        "location": "法外之地",
+        "name": "華宮正師",
+        "pinned_tweet_id": "1933621953933553865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008613396066037762/3Art7MGC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 32,
+          "like_count": 135,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 96
+        },
+        "username": "Theprophetsfox",
+        "verified": false
+      }
+    ]
+  }
+}

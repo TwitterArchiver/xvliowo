@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1941079522490953728",
+    "conversation_id": "2010670261666984236",
+    "created_at": "2026-01-15T13:31:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-15T14:31:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011793330255118736"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1797974889703542784",
+          "start": 0,
+          "username": "Shuliaosuga"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011793330255118736",
+    "in_reply_to_user_id": "1797974889703542784",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010670261666984236",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shuliaosuga 摸摸摸"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1941079522490953728",
+        "conversation_id": "2010670261666984236",
+        "created_at": "2026-01-15T13:31:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-15T14:31:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011793330255118736"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1797974889703542784",
+              "start": 0,
+              "username": "Shuliaosuga"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011793330255118736",
+        "in_reply_to_user_id": "1797974889703542784",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010670261666984236",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shuliaosuga 摸摸摸"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797974889703542784",
+        "conversation_id": "2010670261666984236",
+        "created_at": "2026-01-12T11:08:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T12:08:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010670261666984236"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2010670261666984236",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "号，又又又炸了……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-04T10:20:10.000Z",
+        "description": "一个被世界抛弃的笨蛋（可爱喵）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/xi_yi2233",
+                "end": 23,
+                "expanded_url": "https://t.me/xi_yi2233",
+                "start": 0,
+                "url": "https://t.co/WagdVQLyHY"
+              }
+            ]
+          }
+        },
+        "id": "1941079522490953728",
+        "location": "有你的地方",
+        "name": "雨🍥",
+        "pinned_tweet_id": "1986387834031550519",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998523832777453568/zco7jaK6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 376,
+          "following_count": 508,
+          "like_count": 667,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 364
+        },
+        "url": "https://t.co/WagdVQLyHY",
+        "username": "xvliowo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-04T12:53:35.000Z",
+        "description": "上上一世:@Shuliaosugar                                              上一世:@Zzn122002N 目前正在离家出走的16岁xyn💊商.24年含糖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 5,
+                "username": "Shuliaosugar"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "Zzn122002N"
+              }
+            ]
+          }
+        },
+        "id": "1797974889703542784",
+        "name": "盐🍥三代目",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010667255340965889/Dm04G3X__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 70,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 6
+        },
+        "username": "Shuliaosuga",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1941079522490953728",
+    "conversation_id": "2024415716674588812",
+    "created_at": "2026-02-19T16:46:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T17:46:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024525914831561133"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1907031442103943168",
+          "start": 0,
+          "username": "hoshinemu123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024525914831561133",
+    "in_reply_to_user_id": "1907031442103943168",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024415716674588812",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hoshinemu123 要羡慕死了ww"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2024415703970021376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBgrW2DbAAAsNlB.jpg",
+        "width": 1153
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2024415704334929920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBgrW3abEAAuVD3.jpg",
+        "width": 1153
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2024415704997646337",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBgrW54bUAEJYnx.jpg",
+        "width": 1153
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2024415704565637120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBgrW4RbYAAK75U.jpg",
+        "width": 1153
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1941079522490953728",
+        "conversation_id": "2024415716674588812",
+        "created_at": "2026-02-19T16:46:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T17:46:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024525914831561133"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1907031442103943168",
+              "start": 0,
+              "username": "hoshinemu123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024525914831561133",
+        "in_reply_to_user_id": "1907031442103943168",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024415716674588812",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshinemu123 要羡慕死了ww"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024415703970021376",
+            "3_2024415704334929920",
+            "3_2024415704997646337",
+            "3_2024415704565637120"
+          ]
+        },
+        "author_id": "1907031442103943168",
+        "conversation_id": "2024415716674588812",
+        "created_at": "2026-02-19T09:28:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T10:28:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024415716674588812"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BbhfhtocZ4",
+              "end": 26,
+              "expanded_url": "https://x.com/hoshinemu123/status/2024415716674588812/photo/1",
+              "media_key": "3_2024415703970021376",
+              "start": 3,
+              "url": "https://t.co/BbhfhtocZ4"
+            },
+            {
+              "display_url": "pic.x.com/BbhfhtocZ4",
+              "end": 26,
+              "expanded_url": "https://x.com/hoshinemu123/status/2024415716674588812/photo/1",
+              "media_key": "3_2024415704334929920",
+              "start": 3,
+              "url": "https://t.co/BbhfhtocZ4"
+            },
+            {
+              "display_url": "pic.x.com/BbhfhtocZ4",
+              "end": 26,
+              "expanded_url": "https://x.com/hoshinemu123/status/2024415716674588812/photo/1",
+              "media_key": "3_2024415704997646337",
+              "start": 3,
+              "url": "https://t.co/BbhfhtocZ4"
+            },
+            {
+              "display_url": "pic.x.com/BbhfhtocZ4",
+              "end": 26,
+              "expanded_url": "https://x.com/hoshinemu123/status/2024415716674588812/photo/1",
+              "media_key": "3_2024415704565637120",
+              "start": 3,
+              "url": "https://t.co/BbhfhtocZ4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024415716674588812",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 16475,
+          "like_count": 122,
+          "quote_count": 2,
+          "reply_count": 37,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "哎呦 https://t.co/BbhfhtocZ4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-04T10:20:10.000Z",
+        "description": "一个被世界抛弃的笨蛋（可爱喵）\nISFP-T 16龄MTF🍥hrt25.10.06\n另一个我@maoliqwq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 46,
+                "username": "maoliqwq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/xi_yi2233",
+                "end": 23,
+                "expanded_url": "https://t.me/xi_yi2233",
+                "start": 0,
+                "url": "https://t.co/WagdVQM6xw"
+              }
+            ]
+          }
+        },
+        "id": "1941079522490953728",
+        "location": "有你的地方",
+        "name": "雨🍥",
+        "pinned_tweet_id": "2023692062370238620",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023242882224988160/zrmtx_KH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 566,
+          "following_count": 612,
+          "like_count": 962,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 577
+        },
+        "url": "https://t.co/WagdVQM6xw",
+        "username": "xvliowo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-01T11:25:12.000Z",
+        "description": "🏳️‍⚧️🏳️‍🌈🍥含糖女同。仿若游鱼沉潜不喝醉，罔顾山和海绚烂描绘。我叫星眠，是半个软件工程师加半个音乐制作人，在努力成为艺术家和技术大佬的路上。不定期推音乐/美术作品，爱好古风。在参加汉服复兴运动。常驻北京，故乡长春，欢迎小女孩们来找我玩。",
+        "id": "1907031442103943168",
+        "location": "在你附近",
+        "name": "星眠ほしねむ",
+        "pinned_tweet_id": "2021956150368104748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907031660929118208/sNlrsVC3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2795,
+          "following_count": 3215,
+          "like_count": 3225,
+          "listed_count": 2,
+          "media_count": 804,
+          "tweet_count": 8730
+        },
+        "username": "hoshinemu123",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1941079522490953728",
+    "conversation_id": "2023064667762065757",
+    "created_at": "2026-02-15T15:59:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T16:59:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2023064667762065757"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ZianTT_Officia…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/ZianTT_Official/status/2022631517294633150",
+          "start": 15,
+          "url": "https://t.co/O4luzuIW0A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023064667762065757",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022631517294633150",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我一想到自己没别人可爱就难受 https://t.co/O4luzuIW0A"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1941079522490953728",
+        "conversation_id": "2023064667762065757",
+        "created_at": "2026-02-15T15:59:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T16:59:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023064667762065757"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ZianTT_Officia…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/ZianTT_Official/status/2022631517294633150",
+              "start": 15,
+              "url": "https://t.co/O4luzuIW0A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023064667762065757",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022631517294633150",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我一想到自己没别人可爱就难受 https://t.co/O4luzuIW0A"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1689214483481452544",
+        "conversation_id": "2022631517294633150",
+        "created_at": "2026-02-14T11:18:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T12:18:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022631517294633150"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/_0x1cb/status/…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/_0x1cb/status/2022611004996104441",
+              "start": 15,
+              "url": "https://t.co/4UXKtrJ0LM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022631517294633150",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 667,
+          "like_count": 21,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022611004996104441",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我一想到自己没别人可爱就难受 https://t.co/4UXKtrJ0LM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-04T10:20:10.000Z",
+        "description": "一个被世界抛弃的笨蛋（可爱喵）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/xi_yi2233",
+                "end": 23,
+                "expanded_url": "https://t.me/xi_yi2233",
+                "start": 0,
+                "url": "https://t.co/WagdVQLyHY"
+              }
+            ]
+          }
+        },
+        "id": "1941079522490953728",
+        "location": "有你的地方",
+        "name": "雨🍥",
+        "pinned_tweet_id": "1986387834031550519",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998523832777453568/zco7jaK6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 529,
+          "following_count": 594,
+          "like_count": 887,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 506
+        },
+        "url": "https://t.co/WagdVQLyHY",
+        "username": "xvliowo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-09T09:58:21.000Z",
+        "description": "DevOps, Cyber Security,  Web Developer | Python & GoLang & JavaScript | LightXi Inc.",
+        "id": "1689214483481452544",
+        "location": "Shanghai, PRC",
+        "name": "ZianTT",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019966519879573504/bNAx8h0D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 980,
+          "following_count": 413,
+          "like_count": 2252,
+          "listed_count": 5,
+          "media_count": 170,
+          "tweet_count": 2478
+        },
+        "username": "ZianTT_Official",
+        "verified": true
+      }
+    ]
+  }
+}

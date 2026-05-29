@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1941079522490953728",
+    "conversation_id": "2028790036209295387",
+    "created_at": "2026-03-03T11:10:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T12:10:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2028790036209295387"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xvliowo/status…",
+          "end": 160,
+          "expanded_url": "https://twitter.com/xvliowo/status/2028777343612051686",
+          "start": 137,
+          "url": "https://t.co/HCN6O2C3JT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028790036209295387",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028777343612051686",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "自己和他们沟通了那么久 从得到的结果 得到的辱骂 还有让我去死的言语 从他们的态度我就可以清楚 我没有必要和他们进行沟通 因为他们从心底上就认为我是要被扭转治疗的那个 沟通都只是在消耗自己的精神力 让自己精神崩掉 就算有爱自己的力量 修好自己也是需要时间的 自己会哭好久的 https://t.co/HCN6O2C3JT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1941079522490953728",
+        "conversation_id": "2028790036209295387",
+        "created_at": "2026-03-03T11:10:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T12:10:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028790036209295387"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xvliowo/status…",
+              "end": 160,
+              "expanded_url": "https://twitter.com/xvliowo/status/2028777343612051686",
+              "start": 137,
+              "url": "https://t.co/HCN6O2C3JT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028790036209295387",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028777343612051686",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "自己和他们沟通了那么久 从得到的结果 得到的辱骂 还有让我去死的言语 从他们的态度我就可以清楚 我没有必要和他们进行沟通 因为他们从心底上就认为我是要被扭转治疗的那个 沟通都只是在消耗自己的精神力 让自己精神崩掉 就算有爱自己的力量 修好自己也是需要时间的 自己会哭好久的 https://t.co/HCN6O2C3JT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1941079522490953728",
+        "conversation_id": "2028746894609138089",
+        "created_at": "2026-03-03T10:19:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T11:19:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028777343612051686"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1459356998097850370",
+              "start": 0,
+              "username": "Aequoia1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028777343612051686",
+        "in_reply_to_user_id": "1459356998097850370",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028776424119947743",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aequoia1 他们现在非常坚定要把我的思想扭转变成大众化的思想 当个顺男 自己现在药也被扔了 hrt也是偷偷进行的 没断药 如果要讲实话的话就要爆柜 要是他们继续要给我联系扭转机构的话 自己要跑路流浪了 不能被扭转"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-04T10:20:10.000Z",
+        "description": "一个被世界抛弃的笨蛋（可爱喵）\nISFP-T 16龄 trans 另一个我@maoliqwq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 37,
+                "username": "maoliqwq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/xi_yi2233",
+                "end": 23,
+                "expanded_url": "https://t.me/xi_yi2233",
+                "start": 0,
+                "url": "https://t.co/WagdVQM6xw"
+              }
+            ]
+          }
+        },
+        "id": "1941079522490953728",
+        "location": "有你的地方",
+        "name": "璃羽🍥",
+        "pinned_tweet_id": "2023692062370238620",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023242882224988160/zrmtx_KH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 661,
+          "following_count": 620,
+          "like_count": 1139,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 699
+        },
+        "url": "https://t.co/WagdVQM6xw",
+        "username": "xvliowo",
+        "verified": false
+      }
+    ]
+  }
+}

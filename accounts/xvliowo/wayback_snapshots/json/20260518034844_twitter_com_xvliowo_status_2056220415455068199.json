@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056220266985148416"
+      ]
+    },
+    "author_id": "1941079522490953728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2056220415455068199",
+    "created_at": "2026-05-18T03:48:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T04:48:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056220415455068199"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/TKI8fsSSYJ",
+          "end": 119,
+          "expanded_url": "https://x.com/xvliowo/status/2056220415455068199/photo/1",
+          "media_key": "3_2056220266985148416",
+          "start": 96,
+          "url": "https://t.co/TKI8fsSSYJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056220415455068199",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "被自己蠢笑了 \n怎么写出fputc(\"*str\", pf);这样子的代码的\n还盯着调试看了半天 才反应过来什么问题\n还在好奇怎么str解出来变成L了\n把解引用弄成字面量传进去的\n真的是人类吗 https://t.co/TKI8fsSSYJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 871,
+        "media_key": "3_2056220266985148416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIkpcEGb0AA1zw2.png",
+        "width": 1304
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056220266985148416"
+          ]
+        },
+        "author_id": "1941079522490953728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2056220415455068199",
+        "created_at": "2026-05-18T03:48:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T04:48:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056220415455068199"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TKI8fsSSYJ",
+              "end": 119,
+              "expanded_url": "https://x.com/xvliowo/status/2056220415455068199/photo/1",
+              "media_key": "3_2056220266985148416",
+              "start": 96,
+              "url": "https://t.co/TKI8fsSSYJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056220415455068199",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "被自己蠢笑了 \n怎么写出fputc(\"*str\", pf);这样子的代码的\n还盯着调试看了半天 才反应过来什么问题\n还在好奇怎么str解出来变成L了\n把解引用弄成字面量传进去的\n真的是人类吗 https://t.co/TKI8fsSSYJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-04T10:20:10.000Z",
+        "description": "ISFP-T 16龄 trans\n自学c语言ing……\n是超乖的小孩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/xi_yi2233",
+                "end": 23,
+                "expanded_url": "https://t.me/xi_yi2233",
+                "start": 0,
+                "url": "https://t.co/WagdVQM6xw"
+              }
+            ]
+          }
+        },
+        "id": "1941079522490953728",
+        "location": "有你的地方",
+        "name": "璃羽",
+        "pinned_tweet_id": "2032075745988919375",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023242882224988160/zrmtx_KH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 817,
+          "following_count": 630,
+          "like_count": 1456,
+          "listed_count": 1,
+          "media_count": 146,
+          "tweet_count": 1114
+        },
+        "url": "https://t.co/WagdVQM6xw",
+        "username": "xvliowo",
+        "verified": false
+      }
+    ]
+  }
+}

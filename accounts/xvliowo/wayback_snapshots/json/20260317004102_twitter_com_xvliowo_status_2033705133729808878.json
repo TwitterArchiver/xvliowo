@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1941079522490953728",
+    "conversation_id": "2033556233198973157",
+    "created_at": "2026-03-17T00:41:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T01:41:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033705133729808878"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1882678524596867072",
+          "start": 0,
+          "username": "gdioiui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033705133729808878",
+    "in_reply_to_user_id": "1882678524596867072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033556233198973157",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gdioiui 我满16以后打工10天 一共赚了360💦"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2033556111140548608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDikgkNbcAALJLI.jpg",
+        "width": 921
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2033556111132184576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDikgkLb0AAeVRI.jpg",
+        "width": 921
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2033556111127891968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDikgkKaUAApHeR.jpg",
+        "width": 921
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1941079522490953728",
+        "conversation_id": "2033556233198973157",
+        "created_at": "2026-03-17T00:41:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T01:41:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033705133729808878"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1882678524596867072",
+              "start": 0,
+              "username": "gdioiui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033705133729808878",
+        "in_reply_to_user_id": "1882678524596867072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033556233198973157",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gdioiui 我满16以后打工10天 一共赚了360💦"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033556111140548608",
+            "3_2033556111132184576",
+            "3_2033556111127891968"
+          ]
+        },
+        "author_id": "1882678524596867072",
+        "conversation_id": "2033556233198973157",
+        "created_at": "2026-03-16T14:49:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T15:49:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033556233198973157"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lis3P4CV1L",
+              "end": 64,
+              "expanded_url": "https://x.com/gdioiui/status/2033556233198973157/photo/1",
+              "media_key": "3_2033556111140548608",
+              "start": 41,
+              "url": "https://t.co/lis3P4CV1L"
+            },
+            {
+              "display_url": "pic.x.com/lis3P4CV1L",
+              "end": 64,
+              "expanded_url": "https://x.com/gdioiui/status/2033556233198973157/photo/1",
+              "media_key": "3_2033556111132184576",
+              "start": 41,
+              "url": "https://t.co/lis3P4CV1L"
+            },
+            {
+              "display_url": "pic.x.com/lis3P4CV1L",
+              "end": 64,
+              "expanded_url": "https://x.com/gdioiui/status/2033556233198973157/photo/1",
+              "media_key": "3_2033556111127891968",
+              "start": 41,
+              "url": "https://t.co/lis3P4CV1L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033556233198973157",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 721,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "学习建议\n 退学打工（）\n窝要是打工一个月至少有2000吧....\n那好像也不错 https://t.co/lis3P4CV1L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-04T10:20:10.000Z",
+        "description": "一个被世界抛弃的笨蛋（可爱喵）\nISFP-T 16龄 trans 另一个我@maoliqwq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 37,
+                "username": "maoliqwq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/xi_yi2233",
+                "end": 23,
+                "expanded_url": "https://t.me/xi_yi2233",
+                "start": 0,
+                "url": "https://t.co/WagdVQM6xw"
+              }
+            ]
+          }
+        },
+        "id": "1941079522490953728",
+        "location": "有你的地方",
+        "name": "璃羽🍥",
+        "pinned_tweet_id": "2032075745988919375",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023242882224988160/zrmtx_KH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 831,
+          "following_count": 636,
+          "like_count": 1292,
+          "listed_count": 1,
+          "media_count": 105,
+          "tweet_count": 909
+        },
+        "url": "https://t.co/WagdVQM6xw",
+        "username": "xvliowo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "高二在校生小猫咪\noier转oder，翻墙研发ing...\n失联重返3.14，炸柜3.11\nod戒断ing，hrt自25.8.28\n梓厨+发癫达人\n人体解剖高手，左手修复ing\n不知为啥还活着，最怕只是活着\n酒精﹤od﹤吸嗨﹤抱抱\n不定期拍好看的？\n超可聊天，加qq\n172/60kg（胖胖ing）\nRIP26.12.3",
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "​❄️​❄️圣三一第一步枪 vanitas 🍥 💊",
+        "pinned_tweet_id": "1999757637697831383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1279,
+          "following_count": 366,
+          "like_count": 3220,
+          "listed_count": 2,
+          "media_count": 839,
+          "tweet_count": 5189
+        },
+        "username": "gdioiui",
+        "verified": true
+      }
+    ]
+  }
+}

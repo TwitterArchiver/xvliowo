@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1941079522490953728",
+    "conversation_id": "2013571604882632718",
+    "created_at": "2026-01-20T13:31:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-20T14:31:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013605330899607888"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1955988310956105732",
+          "start": 0,
+          "username": "AqDro9Qa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013605330899607888",
+    "in_reply_to_user_id": "1955988310956105732",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013571604882632718",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AqDro9Qa 孕酮不建议用 可能会拮抗雌二醇（我个人用下来感觉是这样的） 但是如果加了以后突然停的话 会明显强烈的情绪波动"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2013571601489358849",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_GktASWcAEqVWf.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2013571601971757056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_GktCFXQAAfZxO.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1941079522490953728",
+        "conversation_id": "2013571604882632718",
+        "created_at": "2026-01-20T13:31:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T14:31:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013605330899607888"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1955988310956105732",
+              "start": 0,
+              "username": "AqDro9Qa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013605330899607888",
+        "in_reply_to_user_id": "1955988310956105732",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013571604882632718",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AqDro9Qa 孕酮不建议用 可能会拮抗雌二醇（我个人用下来感觉是这样的） 但是如果加了以后突然停的话 会明显强烈的情绪波动"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013571601489358849",
+            "3_2013571601971757056"
+          ]
+        },
+        "author_id": "1955988310956105732",
+        "conversation_id": "2013571604882632718",
+        "created_at": "2026-01-20T11:17:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T12:17:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013571604882632718"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GsuxFfK7Jj",
+              "end": 33,
+              "expanded_url": "https://x.com/AqDro9Qa/status/2013571604882632718/photo/1",
+              "media_key": "3_2013571601489358849",
+              "start": 10,
+              "url": "https://t.co/GsuxFfK7Jj"
+            },
+            {
+              "display_url": "pic.x.com/GsuxFfK7Jj",
+              "end": 33,
+              "expanded_url": "https://x.com/AqDro9Qa/status/2013571604882632718/photo/1",
+              "media_key": "3_2013571601971757056",
+              "start": 10,
+              "url": "https://t.co/GsuxFfK7Jj"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "0d8054846be7f7be"
+        },
+        "id": "2013571604882632718",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 170,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "打了一针黄体酮…… https://t.co/GsuxFfK7Jj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-04T10:20:10.000Z",
+        "description": "一个被世界抛弃的笨蛋（可爱喵）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/xi_yi2233",
+                "end": 23,
+                "expanded_url": "https://t.me/xi_yi2233",
+                "start": 0,
+                "url": "https://t.co/WagdVQLyHY"
+              }
+            ]
+          }
+        },
+        "id": "1941079522490953728",
+        "location": "有你的地方",
+        "name": "雨🍥",
+        "pinned_tweet_id": "1986387834031550519",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998523832777453568/zco7jaK6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 401,
+          "following_count": 509,
+          "like_count": 698,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 380
+        },
+        "url": "https://t.co/WagdVQLyHY",
+        "username": "xvliowo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-14T13:42:30.000Z",
+        "description": "06年在校大学生｜🇨🇳mtf🏳️‍⚧️｜无证含糖｜2025.08.31 hrt｜cn浊酒｜168cm  104斤｜75a｜无烟无瑕无痕无自残   尝试化学极乐中｜非同类🚪30｜不接线下｜轻度抑郁中度焦虑｜喜欢可爱的东西捏🤗｜世界不能没了罗小黑（嘿咻）｜小女儿@Htoz1790524",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 141,
+                "start": 129,
+                "username": "Htoz1790524"
+              }
+            ]
+          }
+        },
+        "id": "1955988310956105732",
+        "location": "安徽  池州&铜陵",
+        "name": "Dro🍥9",
+        "pinned_tweet_id": "2001449478293983417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005445483574251521/o7tHdYtt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1330,
+          "following_count": 593,
+          "like_count": 3118,
+          "listed_count": 2,
+          "media_count": 117,
+          "tweet_count": 613
+        },
+        "username": "AqDro9Qa",
+        "verified": false
+      }
+    ]
+  }
+}

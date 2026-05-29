@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2031403490074046483"
+      ]
+    },
+    "author_id": "1941079522490953728",
+    "conversation_id": "2031403494041952295",
+    "created_at": "2026-03-10T16:15:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T17:15:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2031403494041952295"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/XDPHHIjmEC",
+          "end": 45,
+          "expanded_url": "https://x.com/xvliowo/status/2031403494041952295/photo/1",
+          "media_key": "3_2031403490074046483",
+          "start": 22,
+          "url": "https://t.co/XDPHHIjmEC"
+        },
+        {
+          "display_url": "x.com/xvliowo/status…",
+          "end": 69,
+          "expanded_url": "https://twitter.com/xvliowo/status/2031373921162006796",
+          "start": 46,
+          "url": "https://t.co/B4ekSyYDBh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031403494041952295",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031373921162006796",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "力竭了\n4天40小时200块\n然后还被开了 https://t.co/XDPHHIjmEC https://t.co/B4ekSyYDBh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2031403490074046483",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDD-th1aMBMx4qc.jpg",
+        "width": 544
+      },
+      {
+        "height": 1072,
+        "media_key": "3_2031373918087634944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDDj0NmbYAA6AI1.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031403490074046483"
+          ]
+        },
+        "author_id": "1941079522490953728",
+        "conversation_id": "2031403494041952295",
+        "created_at": "2026-03-10T16:15:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T17:15:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031403494041952295"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XDPHHIjmEC",
+              "end": 45,
+              "expanded_url": "https://x.com/xvliowo/status/2031403494041952295/photo/1",
+              "media_key": "3_2031403490074046483",
+              "start": 22,
+              "url": "https://t.co/XDPHHIjmEC"
+            },
+            {
+              "display_url": "x.com/xvliowo/status…",
+              "end": 69,
+              "expanded_url": "https://twitter.com/xvliowo/status/2031373921162006796",
+              "start": 46,
+              "url": "https://t.co/B4ekSyYDBh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031403494041952295",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031373921162006796",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "力竭了\n4天40小时200块\n然后还被开了 https://t.co/XDPHHIjmEC https://t.co/B4ekSyYDBh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031373918087634944"
+          ]
+        },
+        "author_id": "1941079522490953728",
+        "conversation_id": "2031373921162006796",
+        "created_at": "2026-03-10T14:17:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T15:17:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031373921162006796"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/E95NANKzNL",
+              "end": 98,
+              "expanded_url": "https://x.com/xvliowo/status/2031373921162006796/photo/1",
+              "media_key": "3_2031373918087634944",
+              "start": 75,
+              "url": "https://t.co/E95NANKzNL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031373921162006796",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 230,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真的好工作就不会一直招人 待遇好工作轻松的 员工一般都不会轻易离职 能看到招工的 老板一般都不给休息日 小地方上面工价1小时6块 每天10小时... https://t.co/E95NANKzNL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-04T10:20:10.000Z",
+        "description": "一个被世界抛弃的笨蛋（可爱喵）\nISFP-T 16龄 trans 另一个我@maoliqwq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 37,
+                "username": "maoliqwq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/xi_yi2233",
+                "end": 23,
+                "expanded_url": "https://t.me/xi_yi2233",
+                "start": 0,
+                "url": "https://t.co/WagdVQM6xw"
+              }
+            ]
+          }
+        },
+        "id": "1941079522490953728",
+        "location": "有你的地方",
+        "name": "璃羽🍥",
+        "pinned_tweet_id": "2023692062370238620",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023242882224988160/zrmtx_KH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 813,
+          "following_count": 643,
+          "like_count": 1246,
+          "listed_count": 1,
+          "media_count": 94,
+          "tweet_count": 833
+        },
+        "url": "https://t.co/WagdVQM6xw",
+        "username": "xvliowo",
+        "verified": false
+      }
+    ]
+  }
+}

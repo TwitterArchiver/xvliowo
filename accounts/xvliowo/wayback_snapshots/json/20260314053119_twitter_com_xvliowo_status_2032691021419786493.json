@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1941079522490953728",
+    "conversation_id": "2032352281736380460",
+    "created_at": "2026-03-14T05:31:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T06:31:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032691021419786493"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1261338115165188097",
+          "start": 0,
+          "username": "Bredandrice"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032691021419786493",
+    "in_reply_to_user_id": "1261338115165188097",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032690856239706148",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bredandrice 知道"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1941079522490953728",
+        "conversation_id": "2032352281736380460",
+        "created_at": "2026-03-14T05:31:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T06:31:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032691021419786493"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1261338115165188097",
+              "start": 0,
+              "username": "Bredandrice"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032691021419786493",
+        "in_reply_to_user_id": "1261338115165188097",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032690856239706148",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bredandrice 知道"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1261338115165188097",
+        "conversation_id": "2032352281736380460",
+        "created_at": "2026-03-14T05:30:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T06:30:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032690856239706148"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1941079522490953728",
+              "start": 0,
+              "username": "xvliowo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032690856239706148",
+        "in_reply_to_user_id": "1941079522490953728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032352281736380460",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xvliowo 偷懒是一定要偷懒的，不适合个货不要搬，这么点钱不适合付太多责任"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-04T10:20:10.000Z",
+        "description": "一个被世界抛弃的笨蛋（可爱喵）\nISFP-T 16龄 trans 另一个我@maoliqwq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 37,
+                "username": "maoliqwq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/xi_yi2233",
+                "end": 23,
+                "expanded_url": "https://t.me/xi_yi2233",
+                "start": 0,
+                "url": "https://t.co/WagdVQM6xw"
+              }
+            ]
+          }
+        },
+        "id": "1941079522490953728",
+        "location": "有你的地方",
+        "name": "璃羽🍥",
+        "pinned_tweet_id": "2032075745988919375",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023242882224988160/zrmtx_KH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 830,
+          "following_count": 635,
+          "like_count": 1270,
+          "listed_count": 1,
+          "media_count": 102,
+          "tweet_count": 877
+        },
+        "url": "https://t.co/WagdVQM6xw",
+        "username": "xvliowo",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-15T16:52:43.000Z",
+        "description": "祝2025年男孩们每天都充满爱慕与性福！继续勇敢强悍追爱，创造属于自己的彩色人生。现在关注我的频道！未成年人勿进✋🔞",
+        "id": "1261338115165188097",
+        "name": "空酒瓶：镭射 🏳️‍🌈",
+        "pinned_tweet_id": "2000520319074013201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874370146569248768/1eefU_hW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1820,
+          "following_count": 1768,
+          "like_count": 84920,
+          "listed_count": 16,
+          "media_count": 1843,
+          "tweet_count": 59861
+        },
+        "username": "Bredandrice",
+        "verified": false,
+        "withheld": {
+          "country_codes": [
+            "ID"
+          ]
+        }
+      }
+    ]
+  }
+}

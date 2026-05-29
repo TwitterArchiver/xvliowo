@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042902116076040192"
+      ]
+    },
+    "author_id": "1941079522490953728",
+    "conversation_id": "2042902295344746906",
+    "created_at": "2026-04-11T09:47:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T10:47:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042902295344746906"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/mA0f2VHgL2",
+          "end": 43,
+          "expanded_url": "https://x.com/xvliowo/status/2042902295344746906/photo/1",
+          "media_key": "3_2042902116076040192",
+          "start": 20,
+          "url": "https://t.co/mA0f2VHgL2"
+        },
+        {
+          "display_url": "x.com/xvliowo/status…",
+          "end": 67,
+          "expanded_url": "https://twitter.com/xvliowo/status/2042901057320423844",
+          "start": 44,
+          "url": "https://t.co/Nn232x4hsI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042902295344746906",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042901057320423844",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "（因为想不出来怎么写递归所以暴力求解） https://t.co/mA0f2VHgL2 https://t.co/Nn232x4hsI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 388,
+        "media_key": "3_2042902116076040192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFnYppubMAAs95w.jpg",
+        "width": 906
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042902116076040192"
+          ]
+        },
+        "author_id": "1941079522490953728",
+        "conversation_id": "2042902295344746906",
+        "created_at": "2026-04-11T09:47:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T10:47:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042902295344746906"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mA0f2VHgL2",
+              "end": 43,
+              "expanded_url": "https://x.com/xvliowo/status/2042902295344746906/photo/1",
+              "media_key": "3_2042902116076040192",
+              "start": 20,
+              "url": "https://t.co/mA0f2VHgL2"
+            },
+            {
+              "display_url": "x.com/xvliowo/status…",
+              "end": 67,
+              "expanded_url": "https://twitter.com/xvliowo/status/2042901057320423844",
+              "start": 44,
+              "url": "https://t.co/Nn232x4hsI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042902295344746906",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042901057320423844",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "（因为想不出来怎么写递归所以暴力求解） https://t.co/mA0f2VHgL2 https://t.co/Nn232x4hsI"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1941079522490953728",
+        "conversation_id": "2042901057320423844",
+        "created_at": "2026-04-11T09:42:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T10:42:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042901057320423844"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042901057320423844",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有道做不出来的题  一下子来了灵感拉了坨运行不出来的史山\n我想改史山的时候 我发现我不认识我定义的那一堆变量是啥意思了💦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-04T10:20:10.000Z",
+        "description": "ISFP-T 16龄 trans\n自学c语言ing……",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/xi_yi2233",
+                "end": 23,
+                "expanded_url": "https://t.me/xi_yi2233",
+                "start": 0,
+                "url": "https://t.co/WagdVQM6xw"
+              }
+            ]
+          }
+        },
+        "id": "1941079522490953728",
+        "location": "有你的地方",
+        "name": "璃羽",
+        "pinned_tweet_id": "2032075745988919375",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023242882224988160/zrmtx_KH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 821,
+          "following_count": 628,
+          "like_count": 1377,
+          "listed_count": 1,
+          "media_count": 122,
+          "tweet_count": 982
+        },
+        "url": "https://t.co/WagdVQM6xw",
+        "username": "xvliowo",
+        "verified": false
+      }
+    ]
+  }
+}

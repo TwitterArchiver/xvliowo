@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1941079522490953728",
+    "conversation_id": "2006068363735490899",
+    "created_at": "2025-12-30T18:39:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-30T19:39:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006072731020955757"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1197488719906738176",
+          "start": 0,
+          "username": "nina456777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006072731020955757",
+    "in_reply_to_user_id": "1197488719906738176",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006068363735490899",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nina456777 泥？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2006068355967688704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9b8ioibIAANPr3.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2006068355934076928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9b8ioaaQAAvbOy.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2006068355971833860",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9b8iojaYAQx7UA.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1504,
+        "media_key": "3_2006068355900563456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9b8ioSa4AAQm-2.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1941079522490953728",
+        "conversation_id": "2006068363735490899",
+        "created_at": "2025-12-30T18:39:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T19:39:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006072731020955757"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1197488719906738176",
+              "start": 0,
+              "username": "nina456777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006072731020955757",
+        "in_reply_to_user_id": "1197488719906738176",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006068363735490899",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nina456777 泥？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006068355967688704",
+            "3_2006068355934076928",
+            "3_2006068355971833860",
+            "3_2006068355900563456"
+          ]
+        },
+        "author_id": "1197488719906738176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2006068363735490899",
+        "created_at": "2025-12-30T18:22:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T19:22:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006068363735490899"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Fg8FJSzI3F",
+              "end": 35,
+              "expanded_url": "https://x.com/nina456777/status/2006068363735490899/photo/1",
+              "media_key": "3_2006068355967688704",
+              "start": 12,
+              "url": "https://t.co/Fg8FJSzI3F"
+            },
+            {
+              "display_url": "pic.x.com/Fg8FJSzI3F",
+              "end": 35,
+              "expanded_url": "https://x.com/nina456777/status/2006068363735490899/photo/1",
+              "media_key": "3_2006068355934076928",
+              "start": 12,
+              "url": "https://t.co/Fg8FJSzI3F"
+            },
+            {
+              "display_url": "pic.x.com/Fg8FJSzI3F",
+              "end": 35,
+              "expanded_url": "https://x.com/nina456777/status/2006068363735490899/photo/1",
+              "media_key": "3_2006068355971833860",
+              "start": 12,
+              "url": "https://t.co/Fg8FJSzI3F"
+            },
+            {
+              "display_url": "pic.x.com/Fg8FJSzI3F",
+              "end": 35,
+              "expanded_url": "https://x.com/nina456777/status/2006068363735490899/photo/1",
+              "media_key": "3_2006068355900563456",
+              "start": 12,
+              "url": "https://t.co/Fg8FJSzI3F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006068363735490899",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个点没睡的人有雪糕吃 https://t.co/Fg8FJSzI3F"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-04T10:20:10.000Z",
+        "description": "一个被世界抛弃的笨蛋（可爱针娘喵）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/xi_yi2233",
+                "end": 23,
+                "expanded_url": "https://t.me/xi_yi2233",
+                "start": 0,
+                "url": "https://t.co/WagdVQLyHY"
+              }
+            ]
+          }
+        },
+        "id": "1941079522490953728",
+        "location": "有你的地方",
+        "name": "雨🍥",
+        "pinned_tweet_id": "1986387834031550519",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998523832777453568/zco7jaK6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 238,
+          "following_count": 444,
+          "like_count": 520,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 318
+        },
+        "url": "https://t.co/WagdVQLyHY",
+        "username": "xvliowo",
+        "verified": false
+      },
+      {
+        "created_at": "2019-11-21T12:15:50.000Z",
+        "description": "看到的人立刻失去所有烦恼！然后伸个懒腰站起来喝口水保持身体健康 / 时不时上线发点日常和女装 / 喜欢吃🍥(是真的鱼板) / 求互fo呀",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/nina456777",
+                "end": 23,
+                "expanded_url": "https://t.me/nina456777",
+                "start": 0,
+                "url": "https://t.co/UVuJTXgptP"
+              }
+            ]
+          }
+        },
+        "id": "1197488719906738176",
+        "location": "不告诉你",
+        "name": "nina🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2004863264736579726",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004565237635428353/VE-XgeVl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 666,
+          "like_count": 969,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 107
+        },
+        "url": "https://t.co/UVuJTXgptP",
+        "username": "nina456777",
+        "verified": false
+      }
+    ]
+  }
+}

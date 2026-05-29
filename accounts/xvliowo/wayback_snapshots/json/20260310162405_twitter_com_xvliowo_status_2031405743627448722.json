@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1941079522490953728",
+    "conversation_id": "2031400561430655476",
+    "created_at": "2026-03-10T16:24:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T17:24:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031405743627448722"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1689502551501422593",
+          "start": 0,
+          "username": "Bilibili_SHL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031405743627448722",
+    "in_reply_to_user_id": "1689502551501422593",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031400561430655476",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bilibili_SHL 是什么呢 有什么选择呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1941079522490953728",
+        "conversation_id": "2031400561430655476",
+        "created_at": "2026-03-10T16:24:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T17:24:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031405743627448722"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1689502551501422593",
+              "start": 0,
+              "username": "Bilibili_SHL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031405743627448722",
+        "in_reply_to_user_id": "1689502551501422593",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031400561430655476",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bilibili_SHL 是什么呢 有什么选择呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1689502551501422593",
+        "conversation_id": "2031400561430655476",
+        "created_at": "2026-03-10T16:03:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T17:03:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031400561430655476"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2031400561430655476",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不要用普瑞巴林……不要用亚盐……明明有更好的选择……\n拜托了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-04T10:20:10.000Z",
+        "description": "一个被世界抛弃的笨蛋（可爱喵）\nISFP-T 16龄 trans 另一个我@maoliqwq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 37,
+                "username": "maoliqwq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/xi_yi2233",
+                "end": 23,
+                "expanded_url": "https://t.me/xi_yi2233",
+                "start": 0,
+                "url": "https://t.co/WagdVQM6xw"
+              }
+            ]
+          }
+        },
+        "id": "1941079522490953728",
+        "location": "有你的地方",
+        "name": "璃羽🍥",
+        "pinned_tweet_id": "2023692062370238620",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023242882224988160/zrmtx_KH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 814,
+          "following_count": 643,
+          "like_count": 1246,
+          "listed_count": 1,
+          "media_count": 94,
+          "tweet_count": 834
+        },
+        "url": "https://t.co/WagdVQM6xw",
+        "username": "xvliowo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-10T05:03:01.000Z",
+        "description": "MtF | 抑郁、焦虑、PTSD、人格解离（尝试DID救赎）共存 | 可能CAH | HRT💉2025.10.24（无证含糖）\n家暴党| 天残党 | 持续深柜\n生产日05.09.27| 复生日25.09.10  | 预定死亡日30.09.27\n同类互fo，不常在线。\nQQ：3356193027",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/518933600",
+                "end": 23,
+                "expanded_url": "http://space.bilibili.com/518933600",
+                "start": 0,
+                "url": "https://t.co/4VDYAb4b9a"
+              }
+            ]
+          }
+        },
+        "id": "1689502551501422593",
+        "name": "苏秋瑶🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2024546458431836553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1690364822477754368/Vv9wBjRy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 204,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 14
+        },
+        "url": "https://t.co/4VDYAb4b9a",
+        "username": "Bilibili_SHL",
+        "verified": false
+      }
+    ]
+  }
+}

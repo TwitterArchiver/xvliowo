@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1941079522490953728",
+    "conversation_id": "2017238824787845499",
+    "created_at": "2026-01-30T14:14:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T15:14:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017239913360769432"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1911055843715682304",
+          "start": 0,
+          "username": "Huang_Yut1ng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017239913360769432",
+    "in_reply_to_user_id": "1911055843715682304",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017238824787845499",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Huang_Yut1ng 摸摸"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1941079522490953728",
+        "conversation_id": "2017238824787845499",
+        "created_at": "2026-01-30T14:14:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T15:14:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017239913360769432"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1911055843715682304",
+              "start": 0,
+              "username": "Huang_Yut1ng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017239913360769432",
+        "in_reply_to_user_id": "1911055843715682304",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017238824787845499",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Huang_Yut1ng 摸摸"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1911055843715682304",
+        "conversation_id": "2017238824787845499",
+        "created_at": "2026-01-30T14:09:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T15:09:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017238824787845499"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2017238824787845499",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "上午课间…\n同学坐在凳子上…我站在他后面…他往后仰往我身上躺…\n没注意他枕到我乃致了…\n突然跟触电一样疼…\n我大脑还没反应过来就已经开始叫了…\n🥲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-04T10:20:10.000Z",
+        "description": "一个被世界抛弃的笨蛋（可爱喵）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/xi_yi2233",
+                "end": 23,
+                "expanded_url": "https://t.me/xi_yi2233",
+                "start": 0,
+                "url": "https://t.co/WagdVQLyHY"
+              }
+            ]
+          }
+        },
+        "id": "1941079522490953728",
+        "location": "有你的地方",
+        "name": "雨🍥",
+        "pinned_tweet_id": "1986387834031550519",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998523832777453568/zco7jaK6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 431,
+          "following_count": 541,
+          "like_count": 770,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 406
+        },
+        "url": "https://t.co/WagdVQLyHY",
+        "username": "xvliowo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-12T13:56:54.000Z",
+        "description": "🏳️‍⚧️MTF/好朋友：@smiroyama/好姐姐：@Kisaragi_Momoe  @RainLemon0715",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 13,
+                "username": "smiroyama"
+              },
+              {
+                "end": 43,
+                "start": 28,
+                "username": "Kisaragi_Momoe"
+              },
+              {
+                "end": 59,
+                "start": 45,
+                "username": "RainLemon0715"
+              }
+            ]
+          }
+        },
+        "id": "1911055843715682304",
+        "location": "在你心中",
+        "name": "Huang_Yut1ng🍥",
+        "pinned_tweet_id": "1995501596621582588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015426776747700225/hXDRuwnr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 878,
+          "following_count": 829,
+          "like_count": 2088,
+          "listed_count": 0,
+          "media_count": 150,
+          "tweet_count": 544
+        },
+        "username": "Huang_Yut1ng",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055291167160635392"
+      ],
+      "media_source_tweet_id": [
+        "2055291173485568010"
+      ]
+    },
+    "author_id": "1941079522490953728",
+    "conversation_id": "2055291518236385409",
+    "created_at": "2026-05-15T14:17:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T15:17:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055291518236385409"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2049292877814173696",
+          "start": 3,
+          "username": "Shuliaosui"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rfAVeaSEqN",
+          "end": 138,
+          "expanded_url": "https://x.com/Shuliaosui/status/2055291173485568010/photo/1",
+          "media_key": "3_2055291167160635392",
+          "start": 115,
+          "url": "https://t.co/rfAVeaSEqN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055291518236385409",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055291173485568010",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Shuliaosui: 我发起一个专门接免费陪伴任务的群，缺爱，缺陪伴，缺关注的都可以来，我们需要有空陪伴的人和需要陪伴的人，当然也包括但不限制处CP，交友扩列等等。在群里你可以大胆说出你的想法我相信热心的群友一定会回复 https://t.co/rfAVeaSEqN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2055,
+        "media_key": "3_2055291167160635392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIXcbVibkAAMfyX.jpg",
+        "width": 1156
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055291167160635392"
+          ],
+          "media_source_tweet_id": [
+            "2055291173485568010"
+          ]
+        },
+        "author_id": "1941079522490953728",
+        "conversation_id": "2055291518236385409",
+        "created_at": "2026-05-15T14:17:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T15:17:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055291518236385409"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2049292877814173696",
+              "start": 3,
+              "username": "Shuliaosui"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rfAVeaSEqN",
+              "end": 138,
+              "expanded_url": "https://x.com/Shuliaosui/status/2055291173485568010/photo/1",
+              "media_key": "3_2055291167160635392",
+              "start": 115,
+              "url": "https://t.co/rfAVeaSEqN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055291518236385409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055291173485568010",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Shuliaosui: 我发起一个专门接免费陪伴任务的群，缺爱，缺陪伴，缺关注的都可以来，我们需要有空陪伴的人和需要陪伴的人，当然也包括但不限制处CP，交友扩列等等。在群里你可以大胆说出你的想法我相信热心的群友一定会回复 https://t.co/rfAVeaSEqN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055291167160635392"
+          ]
+        },
+        "author_id": "2049292877814173696",
+        "conversation_id": "2055291173485568010",
+        "created_at": "2026-05-15T14:16:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T15:16:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055291173485568010"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rfAVeaSEqN",
+              "end": 122,
+              "expanded_url": "https://x.com/Shuliaosui/status/2055291173485568010/photo/1",
+              "media_key": "3_2055291167160635392",
+              "start": 99,
+              "url": "https://t.co/rfAVeaSEqN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055291173485568010",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我发起一个专门接免费陪伴任务的群，缺爱，缺陪伴，缺关注的都可以来，我们需要有空陪伴的人和需要陪伴的人，当然也包括但不限制处CP，交友扩列等等。在群里你可以大胆说出你的想法我相信热心的群友一定会回复 https://t.co/rfAVeaSEqN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-04T10:20:10.000Z",
+        "description": "ISFP-T 16龄 trans\n自学c语言ing……\n是超乖的小孩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/xi_yi2233",
+                "end": 23,
+                "expanded_url": "https://t.me/xi_yi2233",
+                "start": 0,
+                "url": "https://t.co/WagdVQM6xw"
+              }
+            ]
+          }
+        },
+        "id": "1941079522490953728",
+        "location": "有你的地方",
+        "name": "璃羽",
+        "pinned_tweet_id": "2032075745988919375",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023242882224988160/zrmtx_KH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 818,
+          "following_count": 628,
+          "like_count": 1446,
+          "listed_count": 1,
+          "media_count": 141,
+          "tweet_count": 1097
+        },
+        "url": "https://t.co/WagdVQM6xw",
+        "username": "xvliowo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-29T01:01:19.000Z",
+        "description": "/24年药娘/接陪伴/爱自己/自杀干预/家长不管/16岁/护理专业/Q:3755457720/Q群:285607409/匿名提问:https://t.co/P7wEVYG2Sn",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yan14866",
+                "end": 88,
+                "expanded_url": "https://ngl.link/yan14866",
+                "start": 65,
+                "url": "https://t.co/P7wEVYG2Sn"
+              }
+            ]
+          }
+        },
+        "id": "2049292877814173696",
+        "name": "盐🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050083452826066944/WL1ORgHQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 665,
+          "like_count": 219,
+          "listed_count": 0,
+          "media_count": 125,
+          "tweet_count": 267
+        },
+        "username": "Shuliaosui",
+        "verified": false
+      }
+    ]
+  }
+}

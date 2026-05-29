@@ -1,0 +1,366 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1941079522490953728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1148689566112477184",
+          "name": "Wi-Fi"
+        }
+      }
+    ],
+    "conversation_id": "2053996141721862183",
+    "created_at": "2026-05-12T00:30:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T01:30:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053996141721862183"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1941079522490953728",
+          "start": 3,
+          "username": "xvliowo"
+        },
+        {
+          "end": 28,
+          "id": "2024884948625408000",
+          "start": 13,
+          "username": "BestWarma74425"
+        },
+        {
+          "end": 44,
+          "id": "1914671795766243328",
+          "start": 29,
+          "username": "xianyubang1145"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053996141721862183",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053994068884259201",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xvliowo: @BestWarma74425 @xianyubang1145 换了其他系统 神秘的读不到WiFi 用不了蓝牙 好一点的能破天荒的把WiFi检测到 联发科网卡局域网传个文件都能掉线 查解决方案给我来了句WiFi和蓝牙不能一起开 否则WiFi会断流 我真…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1941079522490953728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1148689566112477184",
+              "name": "Wi-Fi"
+            }
+          }
+        ],
+        "conversation_id": "2053996141721862183",
+        "created_at": "2026-05-12T00:30:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T01:30:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053996141721862183"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1941079522490953728",
+              "start": 3,
+              "username": "xvliowo"
+            },
+            {
+              "end": 28,
+              "id": "2024884948625408000",
+              "start": 13,
+              "username": "BestWarma74425"
+            },
+            {
+              "end": 44,
+              "id": "1914671795766243328",
+              "start": 29,
+              "username": "xianyubang1145"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053996141721862183",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053994068884259201",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xvliowo: @BestWarma74425 @xianyubang1145 换了其他系统 神秘的读不到WiFi 用不了蓝牙 好一点的能破天荒的把WiFi检测到 联发科网卡局域网传个文件都能掉线 查解决方案给我来了句WiFi和蓝牙不能一起开 否则WiFi会断流 我真…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1941079522490953728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1148689566112477184",
+              "name": "Wi-Fi"
+            }
+          }
+        ],
+        "conversation_id": "2052318770400743927",
+        "created_at": "2026-05-12T00:22:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T01:22:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053994068884259201"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2024884948625408000",
+              "start": 0,
+              "username": "BestWarma74425"
+            },
+            {
+              "end": 31,
+              "id": "1914671795766243328",
+              "start": 16,
+              "username": "xianyubang1145"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053994068884259201",
+        "in_reply_to_user_id": "2024884948625408000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053886853380739110",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BestWarma74425 @xianyubang1145 换了其他系统 神秘的读不到WiFi 用不了蓝牙 好一点的能破天荒的把WiFi检测到 联发科网卡局域网传个文件都能掉线 查解决方案给我来了句WiFi和蓝牙不能一起开 否则WiFi会断流 我真没招了 去鱼子上看了一下这颗网卡就能卖20 我去买颗ax210 要花六七十"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-04T10:20:10.000Z",
+        "description": "ISFP-T 16龄 trans\n自学c语言ing……",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/xi_yi2233",
+                "end": 23,
+                "expanded_url": "https://t.me/xi_yi2233",
+                "start": 0,
+                "url": "https://t.co/WagdVQM6xw"
+              }
+            ]
+          }
+        },
+        "id": "1941079522490953728",
+        "location": "有你的地方",
+        "name": "璃羽",
+        "pinned_tweet_id": "2032075745988919375",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023242882224988160/zrmtx_KH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 820,
+          "following_count": 629,
+          "like_count": 1471,
+          "listed_count": 1,
+          "media_count": 139,
+          "tweet_count": 1086
+        },
+        "url": "https://t.co/WagdVQM6xw",
+        "username": "xvliowo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-20T16:32:58.000Z",
+        "description": "",
+        "id": "2024884948625408000",
+        "name": "H₂O",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024886279624949763/wce6F8Au_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 2,
+          "like_count": 60,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 2
+        },
+        "username": "BestWarma74425",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-22T13:25:29.000Z",
+        "description": "坐标:杭州市钱塘区\n学校什么的就不说喵~\n好像有喜欢的女孩纸了？///w///\n成绩很尴尬呢...不知道能不能考上普高\n考不上就完蛋啦~",
+        "id": "1914671795766243328",
+        "location": "没有痛苦与遗憾的地方",
+        "name": "salt·fish",
+        "pinned_tweet_id": "2048369011264831895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020468226296324096/uKXXl1k3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 152,
+          "like_count": 4589,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 1054
+        },
+        "username": "xianyubang1145",
+        "verified": false
+      }
+    ]
+  }
+}

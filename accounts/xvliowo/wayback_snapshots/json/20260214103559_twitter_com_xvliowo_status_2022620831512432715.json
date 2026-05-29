@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2022620817172107266"
+      ]
+    },
+    "author_id": "1941079522490953728",
+    "conversation_id": "2022620831512432715",
+    "created_at": "2026-02-14T10:35:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T11:35:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2022620831512432715"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/bLI6MmNAee",
+          "end": 34,
+          "expanded_url": "https://x.com/xvliowo/status/2022620831512432715/photo/1",
+          "media_key": "3_2022620817172107266",
+          "start": 11,
+          "url": "https://t.co/bLI6MmNAee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022620831512432715",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "内分泌的医生:这么乖 https://t.co/bLI6MmNAee"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2557,
+        "media_key": "3_2022620817172107266",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBHK6rrakAIy_L7.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022620817172107266"
+          ]
+        },
+        "author_id": "1941079522490953728",
+        "conversation_id": "2022620831512432715",
+        "created_at": "2026-02-14T10:35:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T11:35:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022620831512432715"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bLI6MmNAee",
+              "end": 34,
+              "expanded_url": "https://x.com/xvliowo/status/2022620831512432715/photo/1",
+              "media_key": "3_2022620817172107266",
+              "start": 11,
+              "url": "https://t.co/bLI6MmNAee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022620831512432715",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "内分泌的医生:这么乖 https://t.co/bLI6MmNAee"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-04T10:20:10.000Z",
+        "description": "一个被世界抛弃的笨蛋（可爱喵）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/xi_yi2233",
+                "end": 23,
+                "expanded_url": "https://t.me/xi_yi2233",
+                "start": 0,
+                "url": "https://t.co/WagdVQLyHY"
+              }
+            ]
+          }
+        },
+        "id": "1941079522490953728",
+        "location": "有你的地方",
+        "name": "雨🍥",
+        "pinned_tweet_id": "1986387834031550519",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998523832777453568/zco7jaK6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 477,
+          "following_count": 589,
+          "like_count": 849,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 475
+        },
+        "url": "https://t.co/WagdVQLyHY",
+        "username": "xvliowo",
+        "verified": false
+      }
+    ]
+  }
+}

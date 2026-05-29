@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1941079522490953728",
+    "conversation_id": "2029282099182891378",
+    "created_at": "2026-03-04T23:53:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-05T00:53:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029344635135639977"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1421144469227941891",
+          "start": 0,
+          "username": "RakanMahmoud7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029344635135639977",
+    "in_reply_to_user_id": "1421144469227941891",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029282099182891378",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RakanMahmoud7 吞药这种东西有什么好比的..."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2029282089334652928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCl1TwPawAAuDvL.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1941079522490953728",
+        "conversation_id": "2029282099182891378",
+        "created_at": "2026-03-04T23:53:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T00:53:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029344635135639977"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1421144469227941891",
+              "start": 0,
+              "username": "RakanMahmoud7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029344635135639977",
+        "in_reply_to_user_id": "1421144469227941891",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029282099182891378",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RakanMahmoud7 吞药这种东西有什么好比的..."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029282089334652928"
+          ]
+        },
+        "author_id": "1421144469227941891",
+        "conversation_id": "2029282099182891378",
+        "created_at": "2026-03-04T19:45:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T20:45:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029282099182891378"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OohexAhcFd",
+              "end": 182,
+              "expanded_url": "https://x.com/RakanMahmoud7/status/2029282099182891378/photo/1",
+              "media_key": "3_2029282089334652928",
+              "start": 159,
+              "url": "https://t.co/OohexAhcFd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029282099182891378",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 508,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "3月3日晚上2点，我吞服了150*150=22500mgpr，红普，我担心昏迷我会死亡，所以割了几刀让自己清醒，早上6点，我感觉药效开始退，睡了，一直睡到晚上10点（这是昏迷了吧？）脱离危险，后续我考虑吞服40000mgpr，以冲击极限，并考虑药物联用， 我希望，我能成为比唐毓文和n55还神的东西，申请成为跨圈药神 https://t.co/OohexAhcFd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-04T10:20:10.000Z",
+        "description": "一个被世界抛弃的笨蛋（可爱喵）\nISFP-T 16龄 trans 另一个我@maoliqwq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 37,
+                "username": "maoliqwq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/xi_yi2233",
+                "end": 23,
+                "expanded_url": "https://t.me/xi_yi2233",
+                "start": 0,
+                "url": "https://t.co/WagdVQM6xw"
+              }
+            ]
+          }
+        },
+        "id": "1941079522490953728",
+        "location": "有你的地方",
+        "name": "璃羽🍥",
+        "pinned_tweet_id": "2023692062370238620",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023242882224988160/zrmtx_KH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 695,
+          "following_count": 626,
+          "like_count": 1171,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 723
+        },
+        "url": "https://t.co/WagdVQM6xw",
+        "username": "xvliowo",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-30T16:23:55.000Z",
+        "description": "出生：2012/2/28｜hrt：2024/9/27｜河南人，现居广东｜跨圈药神｜药娘皇帝｜已扭转｜家暴党｜一天上网18小时｜玄学鬼｜清蒸小编｜糖果商人\n\n加我扣扣：3804812474",
+        "id": "1421144469227941891",
+        "name": "小青🍥",
+        "pinned_tweet_id": "2029282099182891378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028644198103273472/2hyZIXJ3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 174,
+          "like_count": 263,
+          "listed_count": 2,
+          "media_count": 5,
+          "tweet_count": 125
+        },
+        "username": "RakanMahmoud7",
+        "verified": false
+      }
+    ]
+  }
+}

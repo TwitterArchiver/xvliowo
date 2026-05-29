@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1941079522490953728",
+    "conversation_id": "2019297078560858197",
+    "created_at": "2026-02-05T08:25:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-05T09:25:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019326616774799726"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1554488846620016641",
+          "start": 0,
+          "username": "kkblm_"
+        },
+        {
+          "end": 19,
+          "id": "1970857021588262912",
+          "start": 8,
+          "username": "mwdxj29477"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019326616774799726",
+    "in_reply_to_user_id": "1554488846620016641",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019326471966453844",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kkblm_ @mwdxj29477 😭😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1941079522490953728",
+        "conversation_id": "2019297078560858197",
+        "created_at": "2026-02-05T08:25:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T09:25:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019326616774799726"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1554488846620016641",
+              "start": 0,
+              "username": "kkblm_"
+            },
+            {
+              "end": 19,
+              "id": "1970857021588262912",
+              "start": 8,
+              "username": "mwdxj29477"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019326616774799726",
+        "in_reply_to_user_id": "1554488846620016641",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019326471966453844",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kkblm_ @mwdxj29477 😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554488846620016641",
+        "conversation_id": "2019297078560858197",
+        "created_at": "2026-02-05T08:25:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T09:25:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019326471966453844"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1941079522490953728",
+              "start": 0,
+              "username": "xvliowo"
+            },
+            {
+              "end": 20,
+              "id": "1970857021588262912",
+              "start": 9,
+              "username": "mwdxj29477"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019326471966453844",
+        "in_reply_to_user_id": "1941079522490953728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019321699842547733",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xvliowo @mwdxj29477 同！！😭😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-04T10:20:10.000Z",
+        "description": "一个被世界抛弃的笨蛋（可爱喵）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/xi_yi2233",
+                "end": 23,
+                "expanded_url": "https://t.me/xi_yi2233",
+                "start": 0,
+                "url": "https://t.co/WagdVQLyHY"
+              }
+            ]
+          }
+        },
+        "id": "1941079522490953728",
+        "location": "有你的地方",
+        "name": "雨🍥",
+        "pinned_tweet_id": "1986387834031550519",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998523832777453568/zco7jaK6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 445,
+          "following_count": 549,
+          "like_count": 792,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 425
+        },
+        "url": "https://t.co/WagdVQLyHY",
+        "username": "xvliowo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-02T15:27:12.000Z",
+        "description": "无证被迫断糖mtf……（2003-2025即将）/infp-t/百合/原神/鸣潮/星穹铁道/不键政  / 欢迎各位骚扰孤独的喵喵(◍•ᴗ•◍)/励志作为安慰大家的猫猫树洞，随叫随到喵，工作是全力倾听大家的负面情绪喵~/梦想是什么~？希望大家健康幸福吧，实现自己的梦想…/🚪30/可爱的妹妹@qqnjjwb",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 144,
+                "username": "qqnjjwb"
+              }
+            ]
+          }
+        },
+        "id": "1554488846620016641",
+        "name": "乌米🏳‍⚧🍥🍬✨",
+        "pinned_tweet_id": "1942328538981622269",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882726775182303232/c-zE53Ot_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 666,
+          "following_count": 899,
+          "like_count": 17794,
+          "listed_count": 5,
+          "media_count": 98,
+          "tweet_count": 3815
+        },
+        "username": "kkblm_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-24T14:25:11.000Z",
+        "description": "翻车顺男/出厂日期:11.13.2011/01.28.2026补🍥02.02色🍥/喜欢xnn xyn/INFP-T/欢迎互fo~/初二牲/家长几乎放养我/162cm  51kg/坐标湖北/社恐/只玩Minecraft/民國派🇹🇼/简体中文&繁体中文🆗/(随机换头像)\nQQ&B站:私信加/TG:「mwdxj」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/mwdxj",
+                "end": 23,
+                "expanded_url": "http://t.me/mwdxj",
+                "start": 0,
+                "url": "https://t.co/fG6XzUT3Y3"
+              }
+            ]
+          }
+        },
+        "id": "1970857021588262912",
+        "location": "ROC/东湖北「汉川城」",
+        "name": "MWdxj_🍥🇹🇼",
+        "pinned_tweet_id": "2019297078560858197",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018765998191767552/D9QyeA7M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 445,
+          "following_count": 399,
+          "like_count": 4289,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 377
+        },
+        "url": "https://t.co/fG6XzUT3Y3",
+        "username": "mwdxj29477",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1941079522490953728",
+    "conversation_id": "2004535107965923646",
+    "created_at": "2025-12-26T18:15:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-26T19:15:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004617090419097919"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1634807884268855297",
+          "start": 0,
+          "username": "teaGfx_MikuNET"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004617090419097919",
+    "in_reply_to_user_id": "1634807884268855297",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004593165513404784",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@teaGfx_MikuNET 喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1941079522490953728",
+        "conversation_id": "2004535107965923646",
+        "created_at": "2025-12-26T18:15:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T19:15:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004617090419097919"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1634807884268855297",
+              "start": 0,
+              "username": "teaGfx_MikuNET"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004617090419097919",
+        "in_reply_to_user_id": "1634807884268855297",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004593165513404784",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@teaGfx_MikuNET 喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634807884268855297",
+        "conversation_id": "2004535107965923646",
+        "created_at": "2025-12-26T16:40:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T17:40:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004593165513404784"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1941079522490953728",
+              "start": 0,
+              "username": "xvliowo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004593165513404784",
+        "in_reply_to_user_id": "1941079522490953728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004535107965923646",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xvliowo rua你~"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-04T10:20:10.000Z",
+        "description": "一个被世界抛弃的笨蛋",
+        "id": "1941079522490953728",
+        "location": "有你的地方",
+        "name": "雨🍥",
+        "pinned_tweet_id": "1986387834031550519",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998523832777453568/zco7jaK6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 386,
+          "like_count": 444,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 240
+        },
+        "username": "xvliowo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-12T06:45:55.000Z",
+        "description": "I'm Steve,A Student,MtX,Like to Play MaiMaiDX | hrt:2025/6/13 | Best sister: @zhi_cheng233 | 越过高山,即为希望 | 🏳️‍⚧️ | ⊂⁠(⁠•⁠‿⁠•⁠⊂⁠ ⁠)⁠*⁠.⁠✧|逃生仓:@Alex_Steve710",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 77,
+                "username": "zhi_cheng233"
+              },
+              {
+                "end": 153,
+                "start": 139,
+                "username": "Alex_Steve710"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mikuhome.ewsn.ltd",
+                "end": 23,
+                "expanded_url": "http://mikuhome.ewsn.ltd",
+                "start": 0,
+                "url": "https://t.co/7FwLwaVPS2"
+              }
+            ]
+          }
+        },
+        "id": "1634807884268855297",
+        "location": "广东 中山 IP属地：Cloudflare",
+        "name": "Steve_Alex🍥",
+        "pinned_tweet_id": "1948019068809707580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004597468097339393/3MdMfiUi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 564,
+          "like_count": 7878,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 585
+        },
+        "url": "https://t.co/7FwLwaVPS2",
+        "username": "teaGfx_MikuNET",
+        "verified": false
+      }
+    ]
+  }
+}

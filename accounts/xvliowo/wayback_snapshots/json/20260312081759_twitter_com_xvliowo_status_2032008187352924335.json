@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1941079522490953728",
+    "conversation_id": "2032004066243723640",
+    "created_at": "2026-03-12T08:17:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T09:17:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032008187352924335"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1841768354178334721",
+          "start": 0,
+          "username": "jingzi004"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032008187352924335",
+    "in_reply_to_user_id": "1841768354178334721",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032004066243723640",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jingzi004 喵？"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 22105,
+        "height": 1280,
+        "media_key": "13_2032003997931094017",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2032003997931094017/img/RTG15D9n0oUi7Kkv.jpg",
+        "public_metrics": {
+          "view_count": 27
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2032003997931094017/vid/avc1/320x568/ICnJM4DjV4lv1Brl.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2032003997931094017/vid/avc1/480x852/rjX1fWSb8KcyU39W.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2032003997931094017/vid/avc1/720x1280/Ir31QwC0Cqghy0fO.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2032003997931094017/pl/cQRFINemwGf8_UwA.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1941079522490953728",
+        "conversation_id": "2032004066243723640",
+        "created_at": "2026-03-12T08:17:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T09:17:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032008187352924335"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1841768354178334721",
+              "start": 0,
+              "username": "jingzi004"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032008187352924335",
+        "in_reply_to_user_id": "1841768354178334721",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032004066243723640",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jingzi004 喵？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2032003997931094017"
+          ]
+        },
+        "author_id": "1841768354178334721",
+        "conversation_id": "2032004066243723640",
+        "created_at": "2026-03-12T08:01:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T09:01:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032004066243723640"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 36,
+              "id": "1941079522490953728",
+              "start": 28,
+              "username": "xvliowo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TT03Sxq0yG",
+              "end": 74,
+              "expanded_url": "https://x.com/jingzi004/status/2032004066243723640/video/1",
+              "media_key": "13_2032003997931094017",
+              "start": 51,
+              "url": "https://t.co/TT03Sxq0yG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032004066243723640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 65,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我招小藥娘還能讓她幹嘛😑\n我是幹什麼的你們還不清楚嗎🙄\n@xvliowo \n不就是做雌二醇和脫毛嗎😥 https://t.co/TT03Sxq0yG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-04T10:20:10.000Z",
+        "description": "一个被世界抛弃的笨蛋（可爱喵）\nISFP-T 16龄 trans 另一个我@maoliqwq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 37,
+                "username": "maoliqwq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/xi_yi2233",
+                "end": 23,
+                "expanded_url": "https://t.me/xi_yi2233",
+                "start": 0,
+                "url": "https://t.co/WagdVQM6xw"
+              }
+            ]
+          }
+        },
+        "id": "1941079522490953728",
+        "location": "有你的地方",
+        "name": "璃羽🍥",
+        "pinned_tweet_id": "2023692062370238620",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023242882224988160/zrmtx_KH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 821,
+          "following_count": 637,
+          "like_count": 1255,
+          "listed_count": 1,
+          "media_count": 96,
+          "tweet_count": 850
+        },
+        "url": "https://t.co/WagdVQM6xw",
+        "username": "xvliowo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-03T09:14:54.000Z",
+        "description": "出廠日期1996.11.1；無證含糖；2022年HRT，176cm70kg，減肥中，沒有SRS，手作雌二醇糖商，減肥、豐胸、泌乳、脫毛、美白、雌墮、互fo、面基找我",
+        "id": "1841768354178334721",
+        "location": "上海",
+        "name": "劉英茂（京子）",
+        "pinned_tweet_id": "2022181116539785500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947896196036759558/jZW-lLDV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4514,
+          "following_count": 4458,
+          "like_count": 1274,
+          "listed_count": 6,
+          "media_count": 398,
+          "tweet_count": 6561
+        },
+        "username": "jingzi004",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1941079522490953728",
+    "conversation_id": "2004895852725502012",
+    "created_at": "2025-12-27T13:22:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-27T14:22:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004905629736210741"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1913309341735956480",
+          "start": 0,
+          "username": "yingyang_FW"
+        },
+        {
+          "end": 24,
+          "id": "1918831724898951168",
+          "start": 13,
+          "username": "XYN1789927"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004905629736210741",
+    "in_reply_to_user_id": "1913309341735956480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004899461370446222",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yingyang_FW @XYN1789927 12没那个钱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1941079522490953728",
+        "conversation_id": "2004895852725502012",
+        "created_at": "2025-12-27T13:22:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T14:22:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004905629736210741"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1913309341735956480",
+              "start": 0,
+              "username": "yingyang_FW"
+            },
+            {
+              "end": 24,
+              "id": "1918831724898951168",
+              "start": 13,
+              "username": "XYN1789927"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004905629736210741",
+        "in_reply_to_user_id": "1913309341735956480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004899461370446222",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yingyang_FW @XYN1789927 12没那个钱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913309341735956480",
+        "conversation_id": "2004895852725502012",
+        "created_at": "2025-12-27T12:57:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T13:57:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004899461370446222"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1918831724898951168",
+              "start": 0,
+              "username": "XYN1789927"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004899461370446222",
+        "in_reply_to_user_id": "1918831724898951168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004897871800533149",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XYN1789927 有点晚了，理论上12是最好的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-04T10:20:10.000Z",
+        "description": "一个被世界抛弃的笨蛋",
+        "id": "1941079522490953728",
+        "location": "有你的地方",
+        "name": "雨🍥",
+        "pinned_tweet_id": "1986387834031550519",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998523832777453568/zco7jaK6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187,
+          "following_count": 403,
+          "like_count": 454,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 256
+        },
+        "username": "xvliowo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-18T19:11:33.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yyyjhfw",
+                "end": 23,
+                "expanded_url": "http://t.me/yyyjhfw",
+                "start": 0,
+                "url": "https://t.co/0mRJesmFT5"
+              }
+            ]
+          }
+        },
+        "id": "1913309341735956480",
+        "location": "谁知道呢",
+        "name": "营养要均衡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950147286937587715/jqqsbiqt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1110,
+          "following_count": 758,
+          "like_count": 14608,
+          "listed_count": 0,
+          "media_count": 137,
+          "tweet_count": 1160
+        },
+        "url": "https://t.co/0mRJesmFT5",
+        "username": "yingyang_FW",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-04T00:55:16.000Z",
+        "description": "笨蛋mtf一只（），有时易燃易爆炸",
+        "id": "1918831724898951168",
+        "location": "雌二醇星球",
+        "name": "萤火虫二号机",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918900774639398912/vHSj0QaK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 532,
+          "following_count": 136,
+          "like_count": 9005,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 2002
+        },
+        "username": "XYN1789927",
+        "verified": false
+      }
+    ]
+  }
+}
